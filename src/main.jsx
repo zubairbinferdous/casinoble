@@ -5,6 +5,7 @@ import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App.jsx';
 import HomePage from './component/HomePage.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
+import NewCasino from './component/NewCasino.jsx';
 import './index.css';
 
 // eslint-disable-next-line no-unused-vars
@@ -24,7 +25,7 @@ const router = createBrowserRouter([
     },
     {
       path:'/NewCasino',
-      element:<h2>New casino</h2>
+      element:<NewCasino></NewCasino>
     },
     {
       path:'/BestOnline',
