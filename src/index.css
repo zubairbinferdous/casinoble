@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;900&display=swap");
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+body {
+  background-color: #f6f9fe;
+}
+
+footer {
+  background-color: #0d0c52;
+  padding: 160px 0px;
+}
+
+.footer-item h4 {
+  font-size: 16px;
+  color: white;
+  margin-bottom: 40px;
+}
+
+.footer-item ul li {
+  list-style: none;
+}
+.footer-item ul li a {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  text-decoration: none;
+  font-size: 14px;
+  color: #912747;
+}
+.footer-item ul {
+  margin: 0px;
+  padding: 0px;
+}
+.dropdown-menu li a {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 14px !important;
+}
+.nav-item a {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 15px;
+}
+
+.bg-body-tertiary {
+  --bs-bg-opacity: 1;
+  background-color: rgb(52 40 161) !important;
+  color: #f6f9fe;
+}
+
+.nav-link {
+  display: block;
+  padding: var(--bs-nav-link-padding-y) var(--bs-nav-link-padding-x);
+  font-size: var(--bs-nav-link-font-size);
+  font-weight: var(--bs-nav-link-font-weight);
+  color: rgb(255 255 255);
+  text-decoration: none;
+  background: 0 0;
+  border: 0;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out;
+}
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show {
+  color: white;
+}
