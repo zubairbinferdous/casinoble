@@ -1,0 +1,167 @@
+.casino-data h1 {
+  font-size: 32px;
+  font-weight: 900;
+  margin: 130px 0px;
+}
+
+.casino-img {
+  width: auto;
+  height: 180px;
+  background-color: #18152c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+}
+.casino-img2 {
+  width: auto;
+  height: 180px;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.casino-img img {
+  width: 90%;
+}
+.casino-img2 img {
+  width: 90%;
+}
+
+.bg-color {
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-bottom: 60px;
+}
+
+.casino-one p {
+  font-size: 16px;
+  color: #39393a;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.casino-one h2 {
+  font-size: 28px;
+  color: #0d0c52;
+  font-weight: 900;
+  margin: 0px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+.casino-one h4 {
+  font-size: 18px;
+  color: #39393a;
+  font-weight: 500;
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+}
+
+.casino-div-img img {
+  width: 26px;
+  height: 50px;
+  margin-right: 10px;
+}
+
+.casino-button-area {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+}
+
+.casino-button-data {
+  width: 100%;
+  height: auto;
+}
+.casino_button {
+  background-color: #5848d5;
+  color: #ffffff;
+  font-size: 18px;
+  font-weight: 900;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  border-radius: 10px;
+  padding: 13px 50px;
+  border: none;
+}
+.casino-button-data a {
+  font-size: 15px;
+  color: #fcfafa;
+  font-weight: 900;
+  margin-top: 26px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  margin-top: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+.casino-button-data span a {
+  font-size: 15px;
+  color: #4e4d4d;
+  font-weight: 300;
+  margin-top: 20px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  margin-top: 20px;
+  display: inline-block;
+  text-decoration: underline;
+}
+
+.mt-row {
+  margin: 100px 0px;
+}
+
+.bg-data {
+  background-color: #37346e;
+  border-radius: 15px;
+  padding: 100px;
+  color: white;
+  margin-bottom: 150px;
+}
+
+.data-area-bonuses-part2 {
+  background-color: #292665;
+  margin-bottom: 60px;
+  padding: 60px;
+  border-radius: 20px;
+}
+.data-area-bonuses-part2 p {
+  margin-top: 40px;
+}
+
+/* .Review {
+  margin-bottom: 40px;
+} */
+.CanadaSafe-data-area {
+  margin: 100px 0px;
+}
+.CanadaSafe h2 {
+  color: #0d0c52;
+  font-size: 28px;
+  font-weight: 900;
+}
+.CanadaSafe p {
+  color: #0d0c52;
+  font-size: 18px;
+  font-weight: 300;
+  margin-top: 30px;
+}
+
+.Offering-bg {
+  background-color: #5848d5;
+  color: white;
+  padding: 120px 0px;
+}
+
+.Offering h2 {
+  font-size: 25px;
+  font-weight: 900;
+  margin: 25px 0px;
+}
