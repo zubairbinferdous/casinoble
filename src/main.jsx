@@ -4,6 +4,7 @@ import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App.jsx';
 import BestCasino from './component/BestCasino.jsx';
+import BestPayout from './component/BestPayout.jsx';
 import HomePage from './component/HomePage.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
@@ -34,7 +35,7 @@ const router = createBrowserRouter([
     },
     {
       path:'/BestPayout',
-      element:<h2>New casino</h2>
+      element:<BestPayout></BestPayout>
     }
   ]
   },

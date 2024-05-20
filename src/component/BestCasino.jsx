@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 import interac from "../assets/2d7eafbe877d314a75223ab1703ec9db6040ddc504396-1.svg";
+import masterCard from "../assets/Frame-13.svg";
 import master from "../assets/Gambling-Regulations-in-Canada.png.webp";
 import google from "../assets/google-pay-payment.svg";
 import apple from "../assets/Group-1.svg";
@@ -367,7 +368,7 @@ Moreover, online casinos frequently roll out promotions, bonuses, and app-exclus
 
           <div className="col">
             <div className="bank-data text-center">
-              <img src={master} alt="" />
+              <img src={masterCard} alt="" />
               <a href="roboto-black">Mastercard</a>
             </div>
           </div>
