@@ -3,6 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App.jsx';
+import BestCasino from './component/BestCasino.jsx';
 import HomePage from './component/HomePage.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
@@ -29,7 +30,7 @@ const router = createBrowserRouter([
     },
     {
       path:'/BestOnline',
-      element:<h2>New casino</h2>
+      element:<BestCasino></BestCasino>
     },
     {
       path:'/BestPayout',

@@ -672,9 +672,6 @@ const NewCasino = () => {
           </div>
         </div>
       </div>
-
-
-
     </div>
   );
 };
