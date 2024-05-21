@@ -3,15 +3,20 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import App from './App.jsx';
+import Apply from './component/Apply.jsx';
 import Baccarat from './component/Baccarat.jsx';
 import BestCasino from './component/BestCasino.jsx';
 import BestPayout from './component/BestPayout.jsx';
+import BlackJack from './component/BlackJack.jsx';
 import Esport from './component/Esport.jsx';
 import FreeSport from './component/FreeSport.jsx';
+import Google from './component/Google.jsx';
 import Goole from './component/Goole.jsx';
 import HomePage from './component/HomePage.jsx';
+import Interac from './component/Interac.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
+import Slots from './component/Slots.jsx';
 import Sports from './component/Sports.jsx';
 import './index.css';
 
@@ -60,18 +65,38 @@ const router = createBrowserRouter([
 
 
     {
-      path:'/baccarat',
+      path:'/Baccarat',
       element:<Baccarat></Baccarat>
     },
     {
-      path:'/eSports',
-      element:<Esport></Esport>
+      path:'/BlackJack',
+      element:<BlackJack></BlackJack>
     },
 
     {
-      path:'/FreeSports',
-      element:<FreeSport></FreeSport>
+      path:'/Slots',
+      element:<Slots></Slots>
     },
+
+
+    {
+      path:'/Interac',
+      element:<Interac></Interac>
+    },
+    {
+      path:'/ApplyPay',
+      element:<Apply></Apply>
+    },
+
+    {
+      path:'/GooglePay',
+      element:<Google></Google>
+    },
+    {
+      path:'/Mastercard',
+      element:<Slots></Slots>
+    },
+
 
 
 

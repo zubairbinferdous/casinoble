@@ -31,6 +31,10 @@ const BestCasino = () => {
             </div>
           </div>
         </div>
+
+        <h1 className="text-center roboto-black mt10">
+            Top 10  Best Online  Casino with Real Money
+      </h1>
         <AllCasino></AllCasino>
         <div className="container-fluid bg-blue mt-row">
           <div className="container ">

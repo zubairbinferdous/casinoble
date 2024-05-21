@@ -35,7 +35,9 @@ const MobileCasino = () => {
           </div>
         </div>
       </div>
-
+      <h1 className="text-center roboto-black mt10">
+            Top 10 Mobile Online Casinos with Real Money
+      </h1>
       {/* <div className="container">
         <div className="casino-data">
           <h1 className="text-center">

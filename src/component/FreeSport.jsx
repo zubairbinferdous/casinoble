@@ -49,6 +49,9 @@ const FreeSport = () => {
           </div>
         </div>
       </div>
+      <h1 className="text-center roboto-black mt10">
+            Top 10 Free Sport Bets Casino with Real Money
+      </h1>
       <AllCasino></AllCasino>
       <div className="container-fluid Offering-bg">
         <div className="container Offering text-center">
@@ -156,7 +159,7 @@ That’s how we can highlight the main factors you should consider when it comes
                     <img src={bg} alt="" />
                 </div>
                 <div className="col-md-6">
-                <h2>What Are Free Sport Bets?</h2>
+                <h2>Free Bets for Existing Customers</h2>
                 <p>Many of the offers mentioned above apply to new users. Still, as an existing customer, you might get even more lucrative offers. <br /><br />
 
 Bookmakers know that in order to keep their customers, they need to offer free bets and other treats regularly during promotions and events. <br /><br />

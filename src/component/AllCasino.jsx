@@ -22,9 +22,7 @@ const AllCasino = () => {
         <div>
         <div className="container">
         <div className="casino-data">
-          <h1 className="text-center">
-            Top 10 Mobile Online Casinos with Real Money
-          </h1>
+        
           <div className="row bg-color">
             <div className="col-md-2">
               <div className="casino-img">

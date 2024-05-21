@@ -36,6 +36,9 @@ const Esport = () => {
           </div>
         </div>
       </div>
+      <h1 className="text-center roboto-black mt10">
+            Top 10 eSports Betting  Casino with Real Money
+      </h1>
       <AllCasino></AllCasino>
       <div className="container-fluid bg-blue">
         <div className="container ">

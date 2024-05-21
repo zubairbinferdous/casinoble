@@ -44,9 +44,10 @@ const Header = () => {
             Games
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Baccarat</a></li>
-            <li><a className="dropdown-item" href="#">Black Jack</a></li>
-            <li><a className="dropdown-item" href="#">Slots</a></li>
+
+            <li> <Link className="dropdown-item" to="/Baccarat">Baccarat</Link> </li>
+            <li> <Link className="dropdown-item" to="/BlackJack">Black Jack </Link> </li>
+            <li> <Link className="dropdown-item" to="/Slots">Slots</Link> </li>
           </ul>
         </li>
         <li className="nav-item dropdown">
@@ -54,10 +55,11 @@ const Header = () => {
             Banking
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Interac</a></li>
-            <li><a className="dropdown-item" href="#">Apply Pay</a></li>
-            <li><a className="dropdown-item" href="#">Google Pay</a></li>
-            <li><a className="dropdown-item" href="#">Mastercard</a></li>
+
+            <li> <Link className="dropdown-item" to="/Interac">Interac</Link> </li>
+            <li> <Link className="dropdown-item" to="/ApplyPay">Apply Pay </Link> </li>
+            <li> <Link className="dropdown-item" to="/GooglePay">Google Pay</Link> </li>
+            <li> <Link className="dropdown-item" to="/Mastercard">Mastercard</Link> </li>
           </ul>
         </li>
 
