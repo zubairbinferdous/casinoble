@@ -68,9 +68,9 @@ const Header = () => {
             Bonuses
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Cashback</a></li>
-            <li><a className="dropdown-item" href="#">Free spins</a></li>
-            <li><a className="dropdown-item" href="#">No Deposit Bonuses</a></li>
+            <li> <Link className="dropdown-item" to="/Cashback">Cashback</Link> </li>
+            <li> <Link className="dropdown-item" to="/FreeSpins">Free spins </Link> </li>
+            <li> <Link className="dropdown-item" to="/NoDeposit">No Deposit Bonuses</Link> </li>
           </ul>
         </li>
     

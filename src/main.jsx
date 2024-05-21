@@ -8,12 +8,15 @@ import Baccarat from './component/Baccarat.jsx';
 import BestCasino from './component/BestCasino.jsx';
 import BestPayout from './component/BestPayout.jsx';
 import BlackJack from './component/BlackJack.jsx';
+import Cashback from './component/Cashback.jsx';
 import Esport from './component/Esport.jsx';
+import Free from './component/Free.jsx';
 import FreeSport from './component/FreeSport.jsx';
 import Google from './component/Google.jsx';
 import Goole from './component/Goole.jsx';
 import HomePage from './component/HomePage.jsx';
 import Interac from './component/Interac.jsx';
+import Master from './component/Master.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
 import Slots from './component/Slots.jsx';
@@ -94,12 +97,23 @@ const router = createBrowserRouter([
     },
     {
       path:'/Mastercard',
-      element:<Slots></Slots>
+      element:<Master></Master>
     },
 
 
+    {
+      path:'/Cashback',
+      element:<Cashback></Cashback>
+    },
+    {
+      path:'/FreeSpins',
+      element:<Free></Free>
+    },
 
-
+    {
+      path:'/NoDeposit',
+      element:<Google></Google>
+    },
 
   ]
   },
