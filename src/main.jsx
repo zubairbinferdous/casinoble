@@ -19,6 +19,7 @@ import Interac from './component/Interac.jsx';
 import Master from './component/Master.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
+import NoDeposit from './component/NoDeposit.jsx';
 import Slots from './component/Slots.jsx';
 import Sports from './component/Sports.jsx';
 import './index.css';
@@ -112,7 +113,7 @@ const router = createBrowserRouter([
 
     {
       path:'/NoDeposit',
-      element:<Google></Google>
+      element:<NoDeposit></NoDeposit>
     },
 
   ]

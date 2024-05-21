@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import res11 from "../assets/appleHow-it-Works-Apple-Pay.png.webp";
-import user from "../assets/use.webp";
+import bg from "../assets/bgFree-bet-For-Existing-Customers.png.webp";
+import res114 from "../assets/freeImportance-of-Licensed-Casinos.png.webp";
 import AllCasino from "./AllCasino";
 // import oneX from "../assets/1xbet-casino-logo-transparent-160x38.png.webp";
 // import Roll from "../assets/2.svg";
@@ -20,28 +20,43 @@ import AllCasino from "./AllCasino";
 import "./HomePage.css";
 import "./MobileCasino.css";
 
-const Apply = () => {
+const NoDeposit = () => {
     return (
         <div>
-      <div className="container-fluid home-area">
-        <div className="container">
+              <div className="container-fluid home-area">
+       <div className="container">
+         <div className="row">
+           <div className="col-md-7">
+             <div className="home-data">
+               <h1 className="roboto-black">
+               Best No Deposit Casino Bonuses
+               </h1>
+               <h2 className="roboto-light">Premier Canadian no deposit bonuses.</h2>
+             </div>
+           </div>
+           <div className="col-md-5"></div>
+         </div>
+       </div>
+     </div>
+     <h1 className="text-center roboto-black mt10">
+     Top 10 Casinos with No Deposit Bonuses
+     </h1>
+     <AllCasino></AllCasino>
+     <div className="container-fluid bg-blue">
+        <div className="container ">
           <div className="row">
-            <div className="col-md-7">
-              <div className="home-data">
-                <h1 className="roboto-black">
-                Apple Pay Online Casinos - 2024 Rankings
-                </h1>
-                <h2 className="roboto-light">Casinos that accept Apple Pay</h2>
-              </div>
+            <h1 className=" pb">Exploring Casinoble's Approach to Examining No Deposit Casino Sites in Canada</h1>
+            <div className="CasinobleReviews">
+              <p className="roboto-light">
+              In our quest to explore and critique no deposit casinos tailored for the Canadian market, Casinoble leaves no stone unturned, adhering faithfully to a thorough, unbiased methodology. Our seasoned experts leverage a multifaceted approach, ensuring that we delve into every nuance of a platform’s credibility, reliability, and value.
+              <br /> <br /> 
+
+Our reviews holistically encompass every vital element of a top-notch online casino experience, spanning from bonus offerings to the ease of user interaction. As the digital gambling landscape is perpetually evolving, so too do our methods, ensuring our Canadian readers receive the most timely and precise information.
+              </p>
             </div>
-            <div className="col-md-5"></div>
           </div>
         </div>
       </div>
-      <h1 className="text-center roboto-black mt10">
-      Top 20 Casinos with Apple Pay
-      </h1>
-      <AllCasino></AllCasino>
 
       <div className="container bg-data mt200">
         <h2 className="text-center Review">How We Review</h2>
@@ -220,174 +235,79 @@ const Apply = () => {
         </div>
       </div>
 
-     <div className="container">
-        <div className="row">
-            <div className="col">
-                <h1 className="roboto-black pb">
-                Online Casino Deposit with Apple Pay
-                </h1>
-                <p className="roboto-light">
-                For Canadian players, the ability to deposit funds swiftly and securely is essential. Apple Pay stands out for its convenience and security, offering a straightforward process for making deposits at online casinos. Here’s how to start: <br /> <br />
+      <div className="container-fluid Offering-bg">
+        <div className="container Offering ">
+          <div className="row">         
+          </div>
+            <div className="row">
+                <div className="col-md-6">
+                    <div className="eSport">
+                    <img src={bg} alt="" />
+                    </div>
+                </div>
+                <div className="col-md-6">
+                <h2>What's the Deal with No Deposit Casino Bonuses?</h2>
+                <p>Roll up, Canadian gamers! Dive into the dynamic world of online casinos without shelling out a single loonie, thanks to no deposit casino bonuses. A hearty “thanks for poppin’ by” from casinos, these bonuses allow fresh-faced players to explore the site, try out a few games, and soak in the casino ambiance without making an initial deposit. <br /> <br />
 
-Choose a Casino: Select an online casino in Canada that accepts Apple Pay. <br /> <br />
-Register/Log In: Sign up as a new player or log in. <br /> <br />
-Navigate to the Cashier: Find the ‘Banking’ or ‘Cashier’ section. <br /> <br />
-Select Apple Pay: Choose Apple Pay among the deposit methods. <br /> <br />
-Specify Amount: Enter your desired deposit amount, mindful of any minimum deposit requirements. <br /> <br />
-Authorize Payment: Authenticate the transaction using Face ID, Touch ID, or your passcode. <br /> <br />
-Confirmation: Once verified, the transaction completes almost instantly, crediting your casino account.<br /> <br />
-                </p>
+So, why are online casinos all over the Great White North so keen on throwing free spins and cash your way? Simply put, the online gambling sector is as competitive as a playoff hockey game, with casinos vying for your attention left, right, and centre. No deposit bonuses are their way of getting you on the bench, offering a shot at winning real dollars without dipping into your pocket.
+<br /> <br />
+
+Sure, casinos hope to foster a lasting relationship with players, tempting them to stick around and play on after tasting victory, even if it’s just a small win. <br /> <br />
+
+But, be in the know, these no deposit bonuses might not always be as straightforward as they seem. Often, they’re attached to specific terms and conditions, like wagering requirements and limitations on game types or withdrawal amounts. <br /> <br />
+
+Comparatively, unlike match deposit bonuses or loyalty rewards, no deposit goodies don’t require you to part with any of your hard-earned cash upfront. They provide a risk-free pathway for exploring online casinos and potentially padding your wallet a bit?</p>
+                </div>
             </div>
         </div>
-     </div>
+      </div>
 
-     <div className="container-fluid Offering-bg mt200">
-        <div className="container Offering">
-          <div className="row">
-            <div className="col-md-6 text-justify">
-              <h2>How to Use Apple Pay</h2>
-              <p className=" roboto-light">
-              Apple Pay, introduced by Apple Inc. in 2014, revolutionized mobile payments, offering Canadians a secure and simple way to transact with a touch or a glance. Utilizing near-field communication (NFC) technology, Apple Pay ensures safe transactions by storing credit or debit card information securely through tokenization and comprehensive security measures. <br /> <br />
+      <div className="container-fluid bg-blue">
+        <div className="container ">
+          <div className="row ">
+            <div className="col-md-6">
+              <div className="CasinobleReviews">
+                <h2 className="roboto-black ">Breaking Down the T’s & C’s of No Deposit Casino Bonuses?</h2>
+                <p className="roboto-light mt-b-para">
+                Pick Your Plays: <br /> <br />
+Eligible Games
+Here’s the scoop: each freebie bonus has a specific roster of eligible games. That means you can’t necessarily use your gratis spins or funds on any game that tickles your fancy. This guideline primarily nudges players toward the casino’s all-star or newbie games.<br /> <br />
 
-The online casino sector in Canada has embraced Apple Pay, blending cutting-edge technology with the thrill of gaming from anywhere. Apple Pay’s commitment to user privacy, instant transactions, and ease of use makes it a top choice for Canadian gamblers.
-              </p>
+Whether a bonus applies to a variety of games or just one exclusive title, adhering to these stipulations is crucial. Ignoring them could result in your bonus being sent to the penalty box and any associated winnings getting left in the dust.<br /> <br />
+
+Putting Percentages into Play:<br /> <br />
+ Game Contribution Percentages
+In order to successfully navigate through the bonus wagering requirements, understanding game contribution percentages is key. Different games may assist in meeting these requirements in varying degrees. For instance, while slot machines may provide a 100% contribution, classic table games like blackjack and roulette might only chip in 10%.<br /> <br />
+
+Picture this: if you have a wagering requirement of C$100, a C$10 punt on slots will fulfill the full value, whereas a similar stake in blackjack might only contribute C$1. Having these figures in your strategy playbook allows you to select your games wisely, amplifying your chances of converting bonus funds into real cash.<br /> <br />
+
+Keeping Tabs on Your Bets: <br /> <br />
+Bet Amount Limits
+No deposit bonuses typically skate onto the ice with betting limits established by the casino. These guidelines curtail high rollers from swiftly achieving wagering requirements through hefty bets. Betting is often confined to somewhere between C$2 and C$5, though these boundaries might see some variation.
+
+Exceeding the permitted wager could see your bonus being revoked, so it’s imperative to stay mindful of these limits while engaging in play and ensuring you don’t surpass them.
+
+Capping the Gains:<br /> <br /> Maximum Win
+Casinos generally specify an upper limit to the winnings obtainable from no deposit bonuses. This ceiling safeguards the casino from excessive financial losses. So, if you hit the jackpot using your no deposit spins or bonus funds, remember you may not be able to withdraw the entirety of those winnings. Awareness of these limits helps tailor your expectations and contribute to a positive gaming experience.<br /> <br />
+
+Beat the Clock:<br /> <br /> Expiry Date
+Much like a timely power play, no deposit bonuses come with a ticking clock. Once issued, they’re valid for a specific duration, typically ranging from 24 hours to a week. After this period, unutilized bonuses and related winnings may be voided. Being cognizant of this time frame enables players to maximize their bonus utilization and get the most out of the casino’s offerings.<br /> <br />
+                </p>
+              </div>
             </div>
             <div className="col-md-6">
-              <div className="res">
-                <div className="res-img">
-                  <img src={res11} alt="" />
-                </div>
+              <div className="eSport">
+                <img src={res114} alt="" />
               </div>
             </div>
           </div>
         </div>
       </div>
-      
-      <div className="container mt200 mb200">
-        <div className="row">
-            <div className="col">
-                <h1 className="roboto-black">
-                Apple Pay Casino Withdrawals
-                </h1>
-                <p className="roboto-light">
-                Typically, Apple Pay is used for deposits, but some Canadian casinos also facilitate withdrawals through this method, combining the convenience of Apple Pay with other withdrawal options:
-                </p>
-            </div>
-        </div>
-     </div>
 
-     <div className="container-fluid bg-blue mt100 mb200">
-        <div className="container ">
-          <div className="row">
-
-            <div className="col">
-                <img src={user} alt="" />
-            </div>
-            <div className="col">
-            <div className="CasinobleReviews">
- 
- <h1 className="roboto-black"> Verification and KYC</h1>
-<p className="roboto-light">
-
-Online casinos in Canada are more than entertainment venues; they adhere to strict international regulations for credibility. Verification and Know Your Customer (KYC) processes ensure a safe and fair gaming environment, verifying players’ identities and legal age to prevent underage gambling and confirm legality. <br /> <br />
-
-The KYC process requires players to submit identification, proof of address, and sometimes payment verification, crucial for preventing money laundering and fraud.  <br /> <br />
-
-Despite the process’s perceived complexity, it’s essential for the security and integrity of online gaming.
-
-
-</p>
-</div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-
-      <div className="container bg-data mt200">
-        <div className="row">
-          <div className="col-md-12 data-area-bonuses-part2">
-            <div className="link-area">
-              <span className="roboto-black ">1</span>
-              <h2 className="roboto-black text-white">
-               Is Apple Pay a legitimate payment method for Canadian gamblers?
-              </h2>
-            </div>
-            <p className="roboto-light">
-            Absolutely. In Canada, Apple Pay is recognized as a secure and reliable payment method for online gambling. Its emphasis on security and privacy makes it a popular choice among Canadian players who prioritize safe and efficient transactions.
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 data-area-bonuses-part2">
-            <div className="link-area">
-              <span className="roboto-black ">2</span>
-              <h2 className="roboto-black text-white">
-              
-              What are the alternatives to Apple Pay for casino deposits and withdrawals?
-              </h2>
-            </div>
-            <p className="roboto-light">
-            Canadian players have a wide array of alternatives to Apple Pay for their casino banking needs. E-wallets such as Skrill, Neteller, and PayPal, credit/debit cards like Visa and MasterCard, direct bank transfers, and cryptocurrencies including Bitcoin and Ethereum are all viable options for both deposits and withdrawals.
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 data-area-bonuses-part2">
-            <div className="link-area">
-              <span className="roboto-black ">3</span>
-              <h2 className="roboto-black text-white"> What fees do I have to pay if I use Apple Pay?</h2>
-            </div>
-            <p className="roboto-light">
-            Typically, Apple Pay does not charge users any fees for transactions. However, it’s important to note that some online casinos might impose their own fees for deposits or withdrawals. It’s advisable to review the casino’s terms and conditions or reach out to their customer support for specific details.
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 data-area-bonuses-part2">
-            <div className="link-area">
-              <span className="roboto-black ">4</span>
-              <h2 className="roboto-black text-white">
-              How long do Apple Pay casino deposits take?
-              </h2>
-            </div>
-            <p className="roboto-light">
-            Deposits made with Apple Pay are usually processed instantly. This means that Canadian players can expect to start enjoying their favorite casino games as soon as they complete the transaction, with the funds being immediately available in their casino account.
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 data-area-bonuses-part2">
-            <div className="link-area">
-              <span className="roboto-black ">5</span>
-              <h2 className="roboto-black text-white">
-              Which casino games can I play after depositing using Apple Pay?
-              </h2>
-            </div>
-            <p className="roboto-light">
-            With Apple Pay, you’ll have access to the full range of games offered by the casino. This includes everything from the latest slot machines to traditional table games like poker, roulette, blackjack, and even immersive live dealer games. Your deposit method does not limit your choice of games.
-            </p>
-          </div>
-        </div>
-        <div className="row">
-          <div className="col-md-12 data-area-bonuses-part2">
-            <div className="link-area">
-              <span className="roboto-black ">6</span>
-              <h2 className="roboto-black text-white">
-              I have issues using Apple Pay with the online casino I chose, what should I do?</h2>
-            </div>
-            <p className="roboto-light">
-            If you encounter any problems using Apple Pay at your selected online casino, your first step should be to contact the casino’s customer support team. If the issue persists, seeking assistance from Apple’s customer support or consulting the Apple Pay help website may offer a resolution.
-            </p>
-          </div>
-        </div>
-
-       
-      </div>
 
       <div className="fqa-data">
         <div className="container ">
-          <h2 className="roboto-black text-center fqa">FAQ</h2>
+          <h2 className="roboto-black text-center fqa">FQA</h2>
           <div className="accordion" id="accordionExample">
             <div className="accordion-item mb-acc">
               <h2 className="accordion-header">
@@ -399,7 +319,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-               1. Is Interac a legitimate payment method for Canadian gamblers?
+               1. Where’s the Best Spot to Snag No Deposit Bonuses in Canada?
                 </button>
               </h2>
               <div
@@ -408,7 +328,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Absolutely. In Canada, Interac is renowned for its security and efficiency, making it a top choice for online gambling transactions. Its integration with Canadian banks ensures a seamless transfer of funds, offering a hassle-free experience for players.
+                The hunt for the plumpest no deposit bonuses often leads Canucks to online casino forums and review sites, where the buzz about the juiciest deals is always ripe. But given the ephemeral nature of these promotions, it’s paramount to keep an eye on listings that get refreshed frequently. By subscribing to newsletters from your go-to Canadian casinos or perusing casino news websites, you’ll always have a seat at the table when a new no deposit deal is served.
                 </div>
               </div>
             </div>
@@ -422,7 +342,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                   aria-expanded="false"
                   aria-controls="collapseTwo"
                 >
-          2. What are the alternatives to Interac for casino deposits and withdrawals?
+            2. Could Ya Explain What a No Deposit Bonus Is, Buddy?
                 </button>
               </h2>
               <div
@@ -431,7 +351,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                For those in Canada, there’s a broad selection of alternatives to Interac. E-wallets such as Skrill, Neteller, and PayPal, credit/debit cards including Visa and MasterCard, direct bank transfers, and cryptocurrencies like Bitcoin and Ethereum, are all viable options for managing casino accounts.
+                In the Canadian online casino scene, a no deposit bonus is akin to a free taste-test – it grants you a sip of the gambling experience without requiring any monetary commitment upfront. Certain casinos will hand these bonuses out, enabling players to explore their offerings without initially laying down any cash.
                 </div>
               </div>
             </div>
@@ -445,7 +365,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                   aria-expanded="false"
                   aria-controls="collapseThree"
                 >
-          3. What fees do I have to pay if I use Interac?
+               3. Can I Snag a No Deposit Bonus on My Mobile in Canada?
                 </button>
               </h2>
               <div
@@ -454,7 +374,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Interac transactions are highly cost-effective, often incurring minimal to no fees for users. However, it’s important to note that some online casinos might apply their own fees for deposits or withdrawals. Checking the casino’s terms and conditions or contacting their customer support can provide specific fee information.
+                Oh, for sure! Canucks can pocket no deposit bonuses using their mobile devices from numerous online casinos. Some gaming hubs even roll out mobile-specific no deposit bonuses, eh. Just ensure your chosen casino is optimized for mobile use, and keep your eyes peeled for any promos exclusive to mobile users.
                 </div>
               </div>
             </div>
@@ -468,7 +388,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                   aria-expanded="false"
                   aria-controls="collapseThree8"
                 >
-            4. How long do Interac casino deposits take?
+           4. So, How Do No Deposit Bonuses Work Around Here?
                 </button>
               </h2>
               <div
@@ -477,7 +397,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Deposits made with Interac are typically processed instantly, allowing Canadian players to engage in their favorite casino games without delay. This instant processing time is a significant advantage of using Interac for online casino payments.
+                A no deposit bonus is dished out to players without necessitating an initial deposit. It’s like a free ticket to explore various games, albeit within the casino’s set boundaries. However, keep in mind the wagering requirements, which dictate how many times the bonus funds need to be bet before you can cash out any dough from it.
 
  
                 </div>
@@ -493,7 +413,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                   aria-expanded="false"
                   aria-controls="collapseThree4"
                 >
-              5. Which casino games can I play after depositing using Interac?
+          5. Are Casinos Offering No Deposit Bonuses in Canada Safe?
                 </button>
               </h2>
               <div
@@ -502,7 +422,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Using Interac to fund your casino account gives you access to the full array of games offered by the casino. Whether your preference lies in slots, table games like poker and roulette, blackjack, or the immersive experience of live dealer games, your choice of payment method will not limit your gaming options.
+                It’s a mix, friend! While there are safe harbours, some no deposit casinos can be sketchy. To ensure a secure gaming venture, always opt for casinos that sport licenses from reputable regulatory bodies. Dive into reviews, check out their rep in the community, and validate the security measures they have in place before you roll the dice.
                 </div>
               </div>
             </div>
@@ -516,7 +436,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                   aria-expanded="false"
                   aria-controls="collapseThree6"
                 >
-              6. I have issues using Interac with the online casino I chose, what should I do?
+               6. And What’s in it for Me with These No Deposit Bonuses?
                 </button>
               </h2>
               <div
@@ -525,7 +445,7 @@ Despite the process’s perceived complexity, it’s essential for the security 
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                If you encounter any difficulties using Interac at your selected online casino, reaching out to the casino’s customer support team should be your first step. If the problem persists, contacting Interac’s customer service may help resolve the issue more effectively.
+                No deposit bonuses are your ticket to explore the diverse world of online casinos and their game troves without risking your hard-earned Loonies. It’s like a free backstage pass, letting you sample the games and the casino vibes without any financial strings attached.
                 </div>
               </div>
             </div>
@@ -551,10 +471,8 @@ Despite the process’s perceived complexity, it’s essential for the security 
           </div>
         </div>
       </div>
-
-  
-    </div>
+        </div>
     );
 };
 
-export default Apply;
+export default NoDeposit;
