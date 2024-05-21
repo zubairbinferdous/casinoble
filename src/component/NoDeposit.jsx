@@ -2,6 +2,7 @@
 import React from "react";
 import bg from "../assets/bgFree-bet-For-Existing-Customers.png.webp";
 import res114 from "../assets/freeImportance-of-Licensed-Casinos.png.webp";
+import bgno from "../assets/NOPull-the-Lever-on-the-Best-Online-Slots.png.webp";
 import AllCasino from "./AllCasino";
 // import oneX from "../assets/1xbet-casino-logo-transparent-160x38.png.webp";
 // import Roll from "../assets/2.svg";
@@ -45,7 +46,7 @@ const NoDeposit = () => {
      <div className="container-fluid bg-blue">
         <div className="container ">
           <div className="row">
-            <h1 className=" pb">Exploring Casinoble's Approach to Examining No Deposit Casino Sites in Canada</h1>
+            <h1 className=" pb">Exploring Casinoble Approach to Examining No Deposit Casino Sites in Canada</h1>
             <div className="CasinobleReviews">
               <p className="roboto-light">
               In our quest to explore and critique no deposit casinos tailored for the Canadian market, Casinoble leaves no stone unturned, adhering faithfully to a thorough, unbiased methodology. Our seasoned experts leverage a multifaceted approach, ensuring that we delve into every nuance of a platform’s credibility, reliability, and value.
@@ -246,7 +247,7 @@ Our reviews holistically encompass every vital element of a top-notch online cas
                     </div>
                 </div>
                 <div className="col-md-6">
-                <h2>What's the Deal with No Deposit Casino Bonuses?</h2>
+                <h2>What the Deal with No Deposit Casino Bonuses?</h2>
                 <p>Roll up, Canadian gamers! Dive into the dynamic world of online casinos without shelling out a single loonie, thanks to no deposit casino bonuses. A hearty “thanks for poppin’ by” from casinos, these bonuses allow fresh-faced players to explore the site, try out a few games, and soak in the casino ambiance without making an initial deposit. <br /> <br />
 
 So, why are online casinos all over the Great White North so keen on throwing free spins and cash your way? Simply put, the online gambling sector is as competitive as a playoff hockey game, with casinos vying for your attention left, right, and centre. No deposit bonuses are their way of getting you on the bench, offering a shot at winning real dollars without dipping into your pocket.
@@ -301,6 +302,31 @@ Much like a timely power play, no deposit bonuses come with a ticking clock. Onc
               </div>
             </div>
           </div>
+        </div>
+      </div>
+
+      <div className="container-fluid Offering-bg">
+        <div className="container Offering ">
+          <div className="row">         
+          </div>
+            <div className="row">
+            <div className="col-md-6">
+                <h2 className="roboto-black">Pull the Lever on the Best Online Slots with Your No Deposit Free Spins?</h2>
+                <p className="roboto-light">Finding your way through the extensive universe of online slots to maximize no deposit free spins can be as tricky as finding the best poutine in all of Canada. The secret lies in pinning down slots that not only offer a reasonable Return to Player (RTP) rate and top-tier visuals but also sprinkle in a dash of pure, unadulterated fun. <br /> <br />
+
+To crank up your winning potential with those precious no deposit spins, it’s a savvy move to opt for games boasting a lofty RTP. Ponder over the slot’s inherent volatility too. High-volatility slots might sling smaller payouts your way, but when they do decide to pay out, it’s a bonanza! Conversely, their low-volatility counterparts may dish out wins more regularly but with a leaner purse. <br /> <br />
+
+Those slot games that manage to capture the collective interest of players usually do so due to their brilliant blend of thrilling features, enthralling themes, and the allure of striking it rich. Conjuring up these crowd-pleasers is often a collaborative effort between big-name brands and the crème de la crème of software providers in the industry. <br /> <br />
+
+When deploying your no deposit free spins, selecting a slot that’s user-friendly and shines on mobile devices is the key to a smooth sail. The luxury of being able to play anywhere – be it during your morning Timmies run or cozying up in bed with a late-night snack – is priceless.</p>
+                </div>
+                <div className="col-md-6">
+                    <div className="eSport">
+                    <img src={bgno} alt="" />
+                    </div>
+                </div>
+
+            </div>
         </div>
       </div>
 
