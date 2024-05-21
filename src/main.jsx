@@ -119,7 +119,7 @@ const router = createBrowserRouter([
   ]
   },
   {
-    path:'/googlePay',
+    path:'/googlePays',
     element:<Goole></Goole>
   },
 ])

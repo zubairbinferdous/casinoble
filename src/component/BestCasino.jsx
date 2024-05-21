@@ -366,28 +366,28 @@ Moreover, online casinos frequently roll out promotions, bonuses, and app-exclus
           <div className="col">
             <div className="bank-data text-center">
               <img src={google} alt="" />
-              <a href="roboto-black">Google Pay</a>
+              <a href="/googlePays" className="roboto-black">Google Pay</a>
             </div>
           </div>
 
           <div className="col">
             <div className="bank-data text-center">
               <img src={masterCard} alt="" />
-              <a href="roboto-black">Mastercard</a>
+              <a href="Mastercard" className="roboto-black">Mastercard</a>
             </div>
           </div>
 
           <div className="col">
             <div className="bank-data text-center">
               <img src={apple} alt="" />
-              <a href="roboto-black">Apple Pay </a>
+              <a href="ApplyPay" className="roboto-black">Apple Pay </a>
             </div>
           </div>
 
           <div className="col">
             <div className="bank-data text-center">
               <img src={interac} alt="" />
-              <a href="roboto-black">Interac</a>
+              <a href="/Interac" className="roboto-black">Interac</a>
             </div>
           </div>
         </div>

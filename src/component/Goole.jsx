@@ -2,12 +2,13 @@
 import React from 'react';
 import Footer from '../Footer/Footer';
 import Header from '../Header/Header';
+import Google from './Google';
 
 const Goole = () => {
     return (
         <div>
             <Header></Header>
-            <h1>google pay</h1>
+            <Google></Google>
             <Footer></Footer>
         </div>
     );
