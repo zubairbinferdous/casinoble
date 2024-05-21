@@ -1,6 +1,8 @@
+/* eslint-disable react/jsx-no-undef */
 /* eslint-disable react/no-unescaped-entities */
 /* eslint-disable no-unused-vars */
 import React from "react";
+import { Link } from "react-router-dom";
 import interac from "../assets/2d7eafbe877d314a75223ab1703ec9db6040ddc504396-1.svg";
 import Casinobles_logo from "../assets/Casinobles-Goal-and-Mission.svg";
 import master from "../assets/Frame-13.svg";
@@ -270,28 +272,28 @@ const HomePage = () => {
           <div className="col">
             <div className="bank-data text-center">
               <img src={google} alt="" />
-              <a href="roboto-black">Google Pay</a>
+              <Link to="/googlePay" className="roboto-black">Google Pay</Link>
             </div>
           </div>
 
           <div className="col">
             <div className="bank-data text-center">
               <img src={master} alt="" />
-              <a href="roboto-black">Mastercard</a>
+              <a href="" className="roboto-black">Mastercard</a>
             </div>
           </div>
 
           <div className="col">
             <div className="bank-data text-center">
               <img src={apple} alt="" />
-              <a href="roboto-black">Apple Pay </a>
+              <a href="" className="roboto-black">Apple Pay </a>
             </div>
           </div>
 
           <div className="col">
             <div className="bank-data text-center">
               <img src={interac} alt="" />
-              <a href="roboto-black">Interac</a>
+              <a href="roboto-black" className="roboto-black">Interac</a>
             </div>
           </div>
         </div>

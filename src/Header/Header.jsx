@@ -32,9 +32,11 @@ const Header = () => {
             Betting
           </a>
           <ul className="dropdown-menu">
-            <li><a className="dropdown-item" href="#">Sports Betting Sites</a></li>
-            <li><a className="dropdown-item" href="#">eSports Betting Sites</a></li>
-            <li><a className="dropdown-item" href="#">Free Sports Bet</a></li>
+          
+            <li> <Link className="dropdown-item" to="/Sports">Sports Betting Sites</Link> </li>
+            <li> <Link className="dropdown-item" to="/eSports">eSports Betting Sites </Link> </li>
+            <li> <Link className="dropdown-item" to="/FreeSports">Free Sports Be</Link> </li>
+           
           </ul>
         </li>
         <li className="nav-item dropdown">

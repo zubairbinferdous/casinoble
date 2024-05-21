@@ -16,7 +16,6 @@ function App() {
     <>
     <Header></Header>
     <Outlet></Outlet>
-    {/* <HomePage></HomePage> */}
     <Footer></Footer>
     </>
   )
