@@ -1,84 +1,175 @@
 /* eslint-disable no-unused-vars */
+/* eslint-disable no-unused-vars */
 import React from "react";
+
+// import logo from '../assets/LOGO.svg';
+
 import { Link } from "react-router-dom";
-import logo from '../assets/LOGO.svg';
+import './Header.css';
+
 
 const Header = () => {
   return (
     <>
-  <nav className="navbar navbar-expand-lg bg-body-tertiary">
-  <div className="container">
-    <a className="navbar-brand" href="/"><img src={logo} alt="" /></a>
-    <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-      <span className="navbar-toggler-icon"></span>
-    </button>
-    <div className="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
-      
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Casino
-          </a>
-          
-          <ul className="dropdown-menu">
-            <li> <Link className="dropdown-item" to="/Mobile">Mobile Casino</Link> </li>
-            <li> <Link className="dropdown-item" to="/NewCasino">New Casino </Link> </li>
-            <li> <Link className="dropdown-item" to="/BestOnline">Best Online Casino</Link> </li>
-            <li> <Link className="dropdown-item" to="/BestPayout">Best Payout Casino</Link> </li>
-          </ul>
-        </li>
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Betting
-          </a>
-          <ul className="dropdown-menu">
-          
-            <li> <Link className="dropdown-item" to="/Sports">Sports Betting Sites</Link> </li>
-            <li> <Link className="dropdown-item" to="/eSports">eSports Betting Sites </Link> </li>
-            <li> <Link className="dropdown-item" to="/FreeSports">Free Sports Be</Link> </li>
-           
-          </ul>
-        </li>
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Games
-          </a>
-          <ul className="dropdown-menu">
 
-            <li> <Link className="dropdown-item" to="/Baccarat">Baccarat</Link> </li>
-            <li> <Link className="dropdown-item" to="/BlackJack">Black Jack </Link> </li>
-            <li> <Link className="dropdown-item" to="/Slots">Slots</Link> </li>
-          </ul>
-        </li>
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Banking
-          </a>
-          <ul className="dropdown-menu">
 
-            <li> <Link className="dropdown-item" to="/Interac">Interac</Link> </li>
-            <li> <Link className="dropdown-item" to="/ApplyPay">Apply Pay </Link> </li>
-            <li> <Link className="dropdown-item" to="/GooglePay">Google Pay</Link> </li>
-            <li> <Link className="dropdown-item" to="/Mastercard">Mastercard</Link> </li>
-          </ul>
-        </li>
+<header className="header">
+         <nav className="nav container">
+            <div className="nav__data">
+               <a href="/" className="nav__logo">
+                  <i className="ri-planet-line"></i> Company
+               </a>
+               
+               <div className="nav__toggle" id="nav-toggle">
+                  <i className="ri-menu-line nav__burger"></i>
+                  <i className="ri-close-line nav__close"></i>
+               </div>
+            </div>
 
-        <li className="nav-item dropdown">
-          <a className="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Bonuses
-          </a>
-          <ul className="dropdown-menu">
-            <li> <Link className="dropdown-item" to="/Cashback">Cashback</Link> </li>
-            <li> <Link className="dropdown-item" to="/FreeSpins">Free spins </Link> </li>
-            <li> <Link className="dropdown-item" to="/NoDeposit">No Deposit Bonuses</Link> </li>
-          </ul>
-        </li>
-    
-      </ul>
-   
-    </div>
-  </div>
-</nav>
+            {/* <!--=============== NAV MENU ===============--> */}
+            <div className="nav__menu" id="nav-menu">
+               <ul className="nav__list">
+                
+                  <li className="dropdown__item">
+                     <div className="nav__link">
+                     Casino <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     </div>
+
+                     <ul className="dropdown__menu">
+                        <li>
+                           <Link to="/Mobile" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Mobile Casino
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/NewCasino" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>New Casino
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/BestOnline" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Best Online Casino
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/BestPayout" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Best Payout Casino
+                           </Link>                          
+                        </li>
+
+                     
+                     </ul>
+                  </li>
+                  <li className="dropdown__item">
+                     <div className="nav__link">
+                     Betting <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     </div>
+
+                     <ul className="dropdown__menu">
+                        <li>
+                           <Link to="/Sports" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Sports Betting Sites
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/eSports" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>eSports Betting Sites
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/FreeSports" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Free Sports Bets
+                           </Link>                          
+                        </li>
+                     
+                     </ul>
+                  </li>
+
+                  <li className="dropdown__item">
+                     <div className="nav__link">
+                     Games <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     </div>
+
+                     <ul className="dropdown__menu">
+                        <li>
+                           <Link to="/Baccarat" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Sports Betting Sites
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/BlackJack" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>eSports Betting Sites
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/BlackJack" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Free Sports Bets
+                           </Link>                          
+                        </li>
+                     
+                     </ul>
+                  </li>
+
+                  <li className="dropdown__item">
+                     <div className="nav__link">
+                     Banking <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     </div>
+
+                     <ul className="dropdown__menu">
+                        <li>
+                           <Link to="/Interac" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Interac
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/ApplyPay" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Apply Pay
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/GooglePay" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Google Pay
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/Mastercard" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Mastercard
+                           </Link>                          
+                        </li>
+                     
+                     </ul>
+                  </li>
+
+                  <li className="dropdown__item">
+                     <div className="nav__link">
+                     Bonuses <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     </div>
+
+                     <ul className="dropdown__menu">
+                        <li>
+                           <Link to="/Interac" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Cashback
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/FreeSpins" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Free spins 
+                           </Link>                          
+                        </li>
+                        <li>
+                           <Link to="/NoDeposit" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>No Deposit Bonuses
+                           </Link>                          
+                        </li>
+                     </ul>
+                  </li>
+
+
+               </ul>
+            </div>
+         </nav>
+</header>
+
 </>
   );
 };

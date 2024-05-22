@@ -340,3 +340,9 @@ footer {
   font-size: 12px;
   border-radius: 5px;
 }
+.home-data {
+  margin-top: 25%;
+  padding: 10%;
+  background-color: #221e79cf;
+  border-radius: 10px;
+}

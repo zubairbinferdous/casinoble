@@ -230,3 +230,9 @@
 .pb2 {
   padding-bottom: 80px;
 }
+.home-data {
+  margin-top: 25%;
+  padding: 10%;
+  background-color: #221e79cf;
+  border-radius: 10px;
+}
