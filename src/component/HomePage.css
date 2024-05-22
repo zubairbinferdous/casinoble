@@ -193,7 +193,7 @@
   align-items: center;
 }
 
-.fqa {
+.FAQ {
   margin-bottom: 50px;
   font-size: 35px;
 }
@@ -221,7 +221,7 @@
   transition: var(--bs-accordion-transition);
 }
 
-.fqa-data {
+.FAQ-data {
   margin: 150px 0px;
 }
 

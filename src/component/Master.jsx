@@ -309,9 +309,9 @@ Though the verification and KYC steps might seem cumbersome, they are essential 
   
 
   
-        <div className="fqa-data">
+        <div className="FAQ-data">
           <div className="container ">
-            <h2 className="roboto-black text-center fqa">FAQ</h2>
+            <h2 className="roboto-black text-center FAQ">FAQ</h2>
             <div className="accordion" id="accordionExample">
               <div className="accordion-item mb-acc">
                 <h2 className="accordion-header">
