@@ -7,19 +7,24 @@ import Apply from './component/Apply.jsx';
 import Baccarat from './component/Baccarat.jsx';
 import BestCasino from './component/BestCasino.jsx';
 import BestPayout from './component/BestPayout.jsx';
+import Bettw from './component/Bettw.jsx';
 import BlackJack from './component/BlackJack.jsx';
 import Cashback from './component/Cashback.jsx';
 import Esport from './component/Esport.jsx';
 import Free from './component/Free.jsx';
 import FreeSport from './component/FreeSport.jsx';
 import Google from './component/Google.jsx';
-import Goole from './component/Goole.jsx';
+import Grand from './component/Grand.jsx';
 import HomePage from './component/HomePage.jsx';
 import Interac from './component/Interac.jsx';
 import Master from './component/Master.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
 import NoDeposit from './component/NoDeposit.jsx';
+import OneX from './component/OneX.jsx';
+import Playzilla from './component/Playzilla.jsx';
+import Roll from './component/Roll.jsx';
+import Rplay from './component/Rplay.jsx';
 import Slots from './component/Slots.jsx';
 import Sports from './component/Sports.jsx';
 import './index.css';
@@ -119,8 +124,28 @@ const router = createBrowserRouter([
   ]
   },
   {
-    path:'/googlePays',
-    element:<Goole></Goole>
+    path:'/Rplay',
+    element:<Rplay></Rplay>
+  },
+  {
+    path:'/Roll',
+    element:<Roll></Roll>
+  },
+  {
+    path:'/Grand',
+    element:<Grand></Grand>
+  },
+  {
+    path:'/OneX',
+    element:<OneX></OneX>
+  },
+  {
+    path:'/bett',
+    element:<Bettw></Bettw>
+  },
+  {
+    path:'/Playzilla',
+    element:<Playzilla></Playzilla>
   },
 ])
 

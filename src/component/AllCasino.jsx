@@ -62,7 +62,7 @@ const AllCasino = () => {
                   <br />
                   <span>
                     {" "}
-                    <a href="#">review</a>
+                    <a href="/Rplay">review</a>
                   </span>
                 </div>
               </div>
@@ -108,7 +108,7 @@ const AllCasino = () => {
                   <br />
                   <span>
                     {" "}
-                    <a href="#">review</a>
+                    <a href="/Roll">review</a>
                   </span>
                 </div>
               </div>
@@ -157,7 +157,7 @@ const AllCasino = () => {
                   <br />
                   <span>
                     {" "}
-                    <a href="#">review</a>
+                    <a href="/Grand">review</a>
                   </span>
                 </div>
               </div>
@@ -203,7 +203,7 @@ const AllCasino = () => {
                   <br />
                   <span>
                     {" "}
-                    <a href="#">review</a>
+                    <a href="/OneX">review</a>
                   </span>
                 </div>
               </div>
@@ -249,7 +249,7 @@ const AllCasino = () => {
                   <br />
                   <span>
                     {" "}
-                    <a href="#">review</a>
+                    <a href="/bett">review</a>
                   </span>
                 </div>
               </div>
@@ -296,7 +296,7 @@ const AllCasino = () => {
                   <br />
                   <span>
                     {" "}
-                    <a href="#">review</a>
+                    <a href="Playzilla">review</a>
                   </span>
                 </div>
               </div>
