@@ -20,22 +20,22 @@ const Footer = () => {
                 <h4 className="roboto-medium">Casino Pages</h4>
                 <ul>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Mobile">
                       Mobile Casino
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/NewCasino">
                       New Casino 2024
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/BestOnline">
                       Best Online Casino{" "}
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/BestPayout">
                       Best Payout Online Casino{" "}
                     </a>
                   </li>
@@ -47,17 +47,17 @@ const Footer = () => {
                 <h4 className="roboto-medium">Betting Pages</h4>
                 <ul>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Sports">
                       Sports Betting Sites
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/eSports">
                       eSports Betting Sites
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/FreeSports">
                       Free Sports Bet
                     </a>
                   </li>
@@ -69,17 +69,17 @@ const Footer = () => {
                 <h4 className="roboto-medium">Games Pages</h4>
                 <ul>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Baccarat">
                       Baccarat
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Blackjack">
                       Black Jack
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Slots">
                       Slots
                     </a>
                   </li>
@@ -91,22 +91,22 @@ const Footer = () => {
                 <h4 className="roboto-medium">Banking Pages</h4>
                 <ul>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Interac">
                       Interac
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/ApplePay">
                       Apply Pay
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/GooglePay">
                       Google Pay
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Mastercard">
                       Mastercard
                     </a>
                   </li>
@@ -118,17 +118,17 @@ const Footer = () => {
                 <h4 className="roboto-medium">Bonuses Pages</h4>
                 <ul>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Cashback">
                       Cashback
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/Freespins">
                       Free spins
                     </a>
                   </li>
                   <li>
-                    <a className="" href="#">
+                    <a className="" href="/NoDeposit">
                       No Deposit Bonuses
                     </a>
                   </li>

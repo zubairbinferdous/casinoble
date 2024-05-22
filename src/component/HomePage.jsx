@@ -383,10 +383,10 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* fqa */}
-      <div className="fqa-data">
+      {/* FAQ */}
+      <div className="FAQ-data">
       <div className="container ">
-        <h2 className="roboto-black text-center fqa">FQA</h2>
+        <h2 className="roboto-black text-center FAQ">FAQ</h2>
         <div className="accordion" id="accordionExample">
           <div className="accordion-item mb-acc">
             <h2 className="accordion-header">
