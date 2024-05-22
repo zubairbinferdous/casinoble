@@ -7,16 +7,20 @@ import Apply from './component/Apply.jsx';
 import Baccarat from './component/Baccarat.jsx';
 import BestCasino from './component/BestCasino.jsx';
 import BestPayout from './component/BestPayout.jsx';
+import Betbest from './component/Betbest.jsx';
+import Betpaly from './component/Betpaly.jsx';
 import Bettw from './component/Bettw.jsx';
 import BlackJack from './component/BlackJack.jsx';
 import Cashback from './component/Cashback.jsx';
 import Esport from './component/Esport.jsx';
 import Free from './component/Free.jsx';
 import FreeSport from './component/FreeSport.jsx';
+import Ggbet from './component/Ggbet.jsx';
 import Google from './component/Google.jsx';
 import Grand from './component/Grand.jsx';
 import HomePage from './component/HomePage.jsx';
 import Interac from './component/Interac.jsx';
+import Lucky from './component/Lucky.jsx';
 import Master from './component/Master.jsx';
 import MobileCasino from './component/MobileCasino.jsx';
 import NewCasino from './component/NewCasino.jsx';
@@ -146,6 +150,22 @@ const router = createBrowserRouter([
   {
     path:'/Playzilla',
     element:<Playzilla></Playzilla>
+  },
+  {
+    path:'/Ggbet',
+    element:<Ggbet></Ggbet>
+  },
+  {
+    path:'/Lucky',
+    element:<Lucky></Lucky>
+  },
+  {
+    path:'/Betbest',
+    element:<Betbest></Betbest>
+  },
+  {
+    path:'/Betplay',
+    element:<Betpaly></Betpaly>
   },
 ])
 
