@@ -2,7 +2,7 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 
-// import logo from '../assets/LOGO.svg';
+import logo from '../assets/LOGO.svg';
 
 import { Link } from "react-router-dom";
 import './Header.css';
@@ -17,7 +17,7 @@ const Header = () => {
          <nav className="nav container">
             <div className="nav__data">
                <a href="/" className="nav__logo">
-                  <i className="ri-planet-line"></i> Company
+                 <img src={logo} alt="" />
                </a>
                
                <div className="nav__toggle" id="nav-toggle">
@@ -32,7 +32,7 @@ const Header = () => {
                 
                   <li className="dropdown__item">
                      <div className="nav__link">
-                     Casino <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     <i className="ri-bard-fill"></i> Casino <i className="ri-arrow-down-s-line dropdown__arrow"></i>
                      </div>
 
                      <ul className="dropdown__menu">
@@ -62,7 +62,7 @@ const Header = () => {
                   </li>
                   <li className="dropdown__item">
                      <div className="nav__link">
-                     Betting <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     <i className="ri-criminal-line"></i> Betting <i className="ri-arrow-down-s-line dropdown__arrow"></i>
                      </div>
 
                      <ul className="dropdown__menu">
@@ -87,7 +87,7 @@ const Header = () => {
 
                   <li className="dropdown__item">
                      <div className="nav__link">
-                     Games <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     <i className="ri-gamepad-line"></i>  Games <i className="ri-arrow-down-s-line dropdown__arrow"></i>
                      </div>
 
                      <ul className="dropdown__menu">
@@ -112,7 +112,7 @@ const Header = () => {
 
                   <li className="dropdown__item">
                      <div className="nav__link">
-                     Banking <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     <i className="ri-bank-line"></i>  Banking <i className="ri-arrow-down-s-line dropdown__arrow"></i>
                      </div>
 
                      <ul className="dropdown__menu">
@@ -142,7 +142,7 @@ const Header = () => {
 
                   <li className="dropdown__item">
                      <div className="nav__link">
-                     Bonuses <i className="ri-arrow-down-s-line dropdown__arrow"></i>
+                     <i className="ri-wallet-line"></i>  Bonuses <i className="ri-arrow-down-s-line dropdown__arrow"></i>
                      </div>
 
                      <ul className="dropdown__menu">
