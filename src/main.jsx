@@ -85,6 +85,10 @@ const router = createBrowserRouter([
       path:'/BlackJack',
       element:<BlackJack></BlackJack>
     },
+    {
+      path:'/Free',
+      element:<Free></Free>
+    },
 
     {
       path:'/Slots',

@@ -3,12 +3,12 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
 import interac from "../assets/2d7eafbe877d314a75223ab1703ec9db6040ddc504396-1.svg";
-import Casinobles_logo from "../assets/Casinobles-Goal-and-Mission.svg";
+import Chipsinos_logo from "../assets/Casinobles-Goal-and-Mission.svg";
 import master from "../assets/Frame-13.svg";
 import Bonuses from "../assets/Gambling-Websites.webp";
 import google from "../assets/google-pay-payment.svg";
 import apple from "../assets/Group-1.svg";
-import Casinobles_logo2 from "../assets/Responsible-Gambling.webp";
+import Chipsinos_logo2 from "../assets/Responsible-Gambling.webp";
 import "./HomePage.css";
 
 const HomePage = () => {
@@ -21,13 +21,12 @@ const HomePage = () => {
           <div className="row">
             <div className="col-md-7">
               <div className="home-data">
-                <h1 className="roboto-black">Casinoble</h1>
+                <h1 className="roboto-black">Chipsino</h1>
                 <h2 className="roboto-light">
-                  Your Guide to Gambling on Sports and Casino Games
+                  Your Complete Guide to Sports and Casino Gaming Gambling
                 </h2>
                 <p className="roboto-medium">
-                  For nearly a decade, we’ve been a trusted companion for
-                  Canadian bettors.
+                We have been a reliable betting partner for Canadians for almost ten years.
                 </p>
               </div>
             </div>
@@ -36,33 +35,31 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* Casinoble's Goal and Mission */}
+      {/* Chipsino's Goal and Mission */}
 
       <div className="container mt150">
         <div className="row">
           <div className="col-md-4">
-            <div className="Casinobles_logo">
-              <img src={Casinobles_logo} alt="" />
+            <div className="Chipsinos_logo">
+              <img src={Chipsinos_logo} alt="" className="logo-home"/>
             </div>
           </div>
           <div className="col-md-8">
             <div className="casino-data">
-              <h2 className="roboto-black">Casinoble's Goal and Mission</h2>
+              <h2 className="roboto-black">Our Goal and Mission</h2>
               <p className="roboto-light">
-                In the vibrant world of online entertainment, the stakes are
-                incredibly high. The Canadian market alone is bustling with
-                countless sports betting platforms and online casinos, bolstered
-                by over a hundred innovative software providers. Players have
-                access to a myriad of bonuses, a staggering array of more than
-                10,000 games, and every sport imaginable from hockey to
-                lacrosse.
+              The stakes in the dynamic world of online entertainment are very high.
+              Thanks to the support of more than a hundred cutting-edge software companies,
+              the sports betting and online casino industries are booming in Canada alone.
+              Gamers can choose from an incredible selection of over 10,000 games,
+              a plethora of extras, and any sport under the sun, from lacrosse to hockey.
               </p>
 
               <p className="roboto-light">
-                Our team at Casinoble is well-versed in the ins and outs of this
+                Our team at Chipsino is well-versed in the ins and outs of this
                 dynamic industry. Having been at the forefront of the iGaming
                 revolution for over a decade, we’ve dedicated ourselves to
-                making Casinoble the ultimate hub for all our insights,
+                making Chipsino the ultimate hub for all our insights,
                 information, and expert recommendations.
               </p>
 
@@ -78,17 +75,17 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* Casinoble's Reviews and Comparisons */}
+      {/* Chipsino's Reviews and Comparisons */}
 
       <div className="container-fluid bg-blue">
         <div className="container">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">
-                Casinoble's Reviews and Comparisons
+                Chipsino's Reviews and Comparisons
               </h2>
               <p className="roboto-light">
-                At Casinoble, we excel in our thoughtful and thorough reviews
+                At Chipsino, we excel in our thoughtful and thorough reviews
                 and comparisons, which have been our hallmark for years. As avid
                 participants in the gaming scene, we take pride in fostering a
                 secure and responsible gaming environment. It’s our commitment
@@ -96,18 +93,18 @@ const HomePage = () => {
                 and the valuable insights you can gain from it.
               </p>
             </div>
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">Online Casino Reviews</h2>
               <p className="roboto-light">
                 Exploring online casinos is something of a speciality for us. We
                 dedicate up to a month testing each casino to ensure that we can
-                offer you comprehensive and candid feedback. Here at Casinoble,
+                offer you comprehensive and candid feedback. Here at Chipsino,
                 you'll find detailed evaluations aimed to guide you through the
                 best lonline casinos in 2024, tailored specifically for the
                 Canadian gaming community.
               </p>
             </div>
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">Casino Bonus Reviews</h2>
               <p className="roboto-light">
                 Casino bonuses are arguably the most enticing aspect of
@@ -122,13 +119,13 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* Casinoble's Methodology to Test and Review Gambling Websites  */}
+      {/* Chipsino's Methodology to Test and Review Gambling Websites  */}
 
       <div className="container">
         <div className="row">
           <div className="Methodology_data ">
             <h2 className="roboto-black">
-              Casinoble's Methodology to Test and Review Gambling Websites
+              Chipsino's Methodology to Test and Review Gambling Websites
             </h2>
             <p className="roboto-light">
               While the iGaming industry once mirrored the untamed expanse of
@@ -139,7 +136,7 @@ const HomePage = () => {
               to safeguard its citizens.
             </p>
             <p className="roboto-light">
-              At Casinoble, we’re aligned with this outlook. We regularly liaise
+              At Chipsino, we’re aligned with this outlook. We regularly liaise
               with regulatory bodies like the Malta Gaming Authority to ensure
               our objectives coincide and to stay informed about the industry’s
               trajectory.
@@ -172,7 +169,7 @@ const HomePage = () => {
                   cashback offers , significant no-deposit bonuses,free spins,
                   free bets, reload bonuses, and much more.But it's not all
                   glitter and gold. Some offers are merely lures, and others
-                  entrap players in a maze of unfavorable terms. At Casinoble,
+                  entrap players in a maze of unfavorable terms. At Chipsino,
                   our mission is to differentiate the beneficial from the
                   deceptive, ensuring you fully benefit from the best deals
                   without any pitfalls.
@@ -298,15 +295,15 @@ const HomePage = () => {
         </div>
       </div>
 
-      {/* History of Casinoble  */}
+      {/* History of Chipsino  */}
       <div className="container-fluid history-bd">
         <div className="container">
           <div className="row">
             <div className="history-data">
-              <h2 className="roboto-black">The History of Casinoble</h2>
+              <h2 className="roboto-black">The History of Chipsino</h2>
               <p className="roboto-light">
                 Although we might seem like the new kid on the block,
-                Casinoble’s roots trace back to 2016. Launched in the crisp
+                Chipsino’s roots trace back to 2016. Launched in the crisp
                 autumn of October that year, our site has continuously evolved
                 and expanded, consistently maintaining our commitment to quality
                 and clear vision.
@@ -328,7 +325,7 @@ const HomePage = () => {
                 What began as a modest idea has blossomed into a grand
                 international saga, embracing over 25 languages and a dynamic
                 community of writers, players, and bettors dedicated to the
-                Casinoble cause.
+                Chipsino cause.
               </p>
 
               <p className="roboto-light">
@@ -336,7 +333,7 @@ const HomePage = () => {
                 seasoned professionals. These veterans have witnessed the full
                 spectrum of the gaming world, bringing invaluable insight and
                 expertise to our platform. It’s our collective mission to
-                elevate Casinoble to new heights, ensuring it remains a
+                elevate Chipsino to new heights, ensuring it remains a
                 cutting-edge, respected international brand, always ahead of the
                 curve.
               </p>
@@ -354,7 +351,7 @@ const HomePage = () => {
           <div className="col-md-6">
             <div className="casino-data ptb">
               <p className="roboto-light">
-                At Casinoble Canada, responsible gambling isn’t just a
+                At Chipsino Canada, responsible gambling isn’t just a
                 policy—it’s our core principle. Since launching in 2016, we’ve
                 been steadfast in our commitment to promote safe gambling
                 practices because we understand the dual nature of this
@@ -374,9 +371,9 @@ const HomePage = () => {
           </div>
 
           <div className="col-md-6">
-            <div className="Casinobles">
+            <div className="Chipsinos">
               <div className="casino_img">
-                <img src={Casinobles_logo2} alt="" />
+                <img src={Chipsinos_logo2} alt="" />
               </div>
             </div>
           </div>
@@ -398,7 +395,7 @@ const HomePage = () => {
                 aria-expanded="true"
                 aria-controls="collapseOne"
               >
-                1. How does Casinoble select top-rated gambling sites in Canada?
+                1. How does Chipsino select top-rated gambling sites in Canada?
               </button>
             </h2>
             <div
@@ -408,7 +405,7 @@ const HomePage = () => {
             >
               <div className="accordion-body roboto-light">
                 Selecting top gambling sites is more complex than it appears. At
-                Casinoble, we meticulously review every detail because we’re not
+                Chipsino, we meticulously review every detail because we’re not
                 just analysts; we’re also players on these sites. Our top
                 priorities include ensuring safety and promoting responsible
                 gambling. Additionally, we assess the variety of games, sports
@@ -428,7 +425,7 @@ const HomePage = () => {
                 aria-expanded="false"
                 aria-controls="collapseTwo"
               >
-               2. Who are the experts behind Casinoble?
+               2. Who are the experts behind Chipsino?
               </button>
             </h2>
             <div
@@ -437,7 +434,7 @@ const HomePage = () => {
               data-bs-parent="#accordionExample"
             >
               <div className="accordion-body roboto-light">
-              At Casinoble, our team is composed of seasoned casino enthusiasts and sports betting experts with extensive experience in the industry. As daily players who are passionate about the gaming scene, our mission is to convey the excitement and joy of online gambling to our readers while ensuring they remain safe and informed.
+              At Chipsino, our team is composed of seasoned casino enthusiasts and sports betting experts with extensive experience in the industry. As daily players who are passionate about the gaming scene, our mission is to convey the excitement and joy of online gambling to our readers while ensuring they remain safe and informed.
               </div>
             </div>
           </div>
@@ -451,7 +448,7 @@ const HomePage = () => {
                 aria-expanded="false"
                 aria-controls="collapseThree"
               >
-                3. What is Casinoble's track record in the online gambling industry?
+                3. What is Chipsino's track record in the online gambling industry?
               </button>
             </h2>
             <div
@@ -460,7 +457,7 @@ const HomePage = () => {
               data-bs-parent="#accordionExample"
             >
               <div className="accordion-body roboto-light">
-              Since launching in 2016, Casinoble has been committed to providing an objective and unbiased platform for comparing online gambling sites. This commitment has resonated across Canada, bringing together a dedicated team of over 20 professionals who are united by their expertise and impartial approach to online gambling.
+              Since launching in 2016, Chipsino has been committed to providing an objective and unbiased platform for comparing online gambling sites. This commitment has resonated across Canada, bringing together a dedicated team of over 20 professionals who are united by their expertise and impartial approach to online gambling.
               </div>
             </div>
           </div>

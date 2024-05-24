@@ -2,7 +2,7 @@
 import React from "react";
 import res11 from "../assets/appleHow-it-Works-Apple-Pay.png.webp";
 import user from "../assets/use.webp";
-import AllCasino from "./AllCasino";
+import AllCasino1 from "./AllCasino1";
 // import oneX from "../assets/1xbet-casino-logo-transparent-160x38.png.webp";
 // import Roll from "../assets/2.svg";
 // import twoBit from "../assets/20bet-casino-logo-160x76.png";
@@ -39,9 +39,9 @@ const Apply = () => {
         </div>
       </div>
       <h1 className="text-center roboto-black mt10">
-      Top 20 Casinos with Apple Pay
+      Top 10 Casinos with Apple Pay
       </h1>
-      <AllCasino></AllCasino>
+      <AllCasino1></AllCasino1>
 
       <div className="container bg-data mt200">
         <h2 className="text-center Review">How We Review</h2>
@@ -59,7 +59,7 @@ const Apply = () => {
               gambling, where numerous sites vye for the attention of Canadian
               players, a handsome bonus can indeed make a world of difference.{" "}
               <br />
-              Our team at Casinoble delves deep into evaluating these offers,
+              Our team at Chipsino delves deep into evaluating these offers,
               ensuring they not only shine in terms of genuine value and
               fairness but also present a genuine opportunity of winning for the
               player. Going above and beyond flashy promotions, we ensure that
@@ -86,7 +86,7 @@ const Apply = () => {
               enthralling live dealer interactions, the software backing these
               games, from giants like Microgaming, NetEnt, or Playtech, must
               assure the most avant-garde visuals, gameplay, and outcomes. We at
-              Casinoble, scrutinize both the games and their developers,
+              Chipsino, scrutinize both the games and their developers,
               ensuring a top-tier gameplay experience for our Canadian audience.
             </p>
           </div>
@@ -104,7 +104,7 @@ const Apply = () => {
               mobile version is crucial. <br />
               Ensuring high-quality visuals, brisk load times, and intuitive
               controls, some players might also favour app usage over browsing,
-              adding another dimension to mobile gaming. Casinoble champions
+              adding another dimension to mobile gaming. Chipsino champions
               those online casinos that prioritize offering a sterling mobile
               experience, reflecting a dedication to contemporary gaming needs
               and user convenience.
@@ -126,7 +126,7 @@ const Apply = () => {
               secure registration, corroborated with instant confirmations via
               email or SMS, and a straightforward deposit procedure are
               quintessential. <br />
-              We prioritize these initial phases at Casinoble, as they not only
+              We prioritize these initial phases at Chipsino, as they not only
               set the stage for a player’s entire journey but are also
               indicative of the reliability and user-friendliness of a casino’s
               digital interface.
@@ -149,7 +149,7 @@ const Apply = () => {
               Casinos providing an extensive array of deposit and withdrawal
               avenues, including cryptocurrency and traditional bank transfers,
               are a nod towards international inclusivity and player
-              convenience. Casinoble accentuates these features, knowing well
+              convenience. Chipsino accentuates these features, knowing well
               that trustworthy financial transactions are cardinal to sustaining
               player trust.
             </p>
@@ -166,7 +166,7 @@ const Apply = () => {
               vigilance towards player protection is pivotal. Players must be
               assured that their delicate data, like payment details, is
               securely shielded from unsolicited scrutiny. <br />
-              Casinoble gives paramount importance to the safety protocols
+              Chipsino gives paramount importance to the safety protocols
               employed by a casino. No matter how enticing a casino’s game
               offerings and promotions might be, if its safety provisions are
               flimsy, it cannot guarantee players’ peace and assurance, which
@@ -189,7 +189,7 @@ const Apply = () => {
               experiences shed light on facets of the platform that neither
               official narratives nor promotional materials can illuminate.{" "}
               <br />
-              Casinoble holds player feedback in high regard, valuing the
+              Chipsino holds player feedback in high regard, valuing the
               communal wisdom it portrays about a casino’s inner machinations.
               Persistent themes in customer reviews often serve as a bellwether
               of what one might anticipate from an online casino.
@@ -210,7 +210,7 @@ const Apply = () => {
               support becomes imperative. From tech glitches to queries about
               bonuses, a casino’s dedication to a frictionless gaming journey is
               often reflected in its customer service quality. <br />
-              Casinoble pays undivided attention to this facet, well aware that
+              Chipsino pays undivided attention to this facet, well aware that
               even the most glamorous games and promotions cannot salvage a
               casino’s reputation if its customer service falters. Stellar
               customer support not only fosters trust but also assures sustained
@@ -284,7 +284,7 @@ The online casino sector in Canada has embraced Apple Pay, blending cutting-edge
                 <img src={user} alt="" />
             </div>
             <div className="col">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
  
  <h1 className="roboto-black"> Verification and KYC</h1>
 <p className="roboto-light">

@@ -1,6 +1,6 @@
 .mt150 {
-  margin-top: 150px;
-  margin-bottom: 80px;
+  margin-top: 100px;
+  margin-bottom: 50px;
 }
 .home-area {
   width: 100%;
@@ -12,8 +12,8 @@
   background-size: cover;
 }
 .home-data {
-  margin-top: 16%;
-  padding: 10%;
+  margin-top: 10%;
+  padding: 5%;
   background-color: #221e79cf;
   border-radius: 10px;
 }
@@ -21,34 +21,34 @@
   font-size: 40px;
 }
 .home-data h2 {
-  padding: 8px 0px;
+  padding: 4px 0px;
   font-size: 40px;
 }
 .home-data p {
   font-size: 18px;
 }
-.Casinobles_logo {
+.Chipsinos_logo {
   width: 100%;
   height: 100%;
 }
 
-.Casinobles_logo img {
-  margin-left: 30px;
+.Chipsinos_logo img {
+  margin-left: 20px;
   margin-top: 260px;
 }
 
 .casino-data h2 {
-  margin: 75px 0px;
+  margin: 50px 0px;
   font-size: 37px;
   color: rgb(12, 12, 73);
 }
 .casino-data p {
-  margin-top: 35px;
+  margin-top: 30px;
   font-size: 19px;
   color: #0d0c52;
 }
 
-.CasinobleReviews h2 {
+.ChipsinoReviews h2 {
   font-size: 25px;
 }
 
@@ -58,25 +58,25 @@
   padding: 90px 0px;
 }
 
-.CasinobleReviews h2 {
-  margin-top: 140px;
-  margin-bottom: 40px;
+.ChipsinoReviews h2 {
+  margin-top: 80px;
+  margin-bottom: 20px;
   font-size: 30px;
 }
-.CasinobleReviews p {
+.ChipsinoReviews p {
   font-size: 17px;
 }
 
 .Methodology_data {
-  margin: 100px 0px;
+  margin: 50px 0px;
 }
 
 .Methodology_data h2 {
-  margin-top: 140px;
+  margin-top: 70px;
   font-size: 30px;
 }
 .Methodology_data p {
-  margin-bottom: 35px;
+  margin-bottom: 10px;
   font-size: 16px;
   margin-top: 40px;
 }
@@ -104,7 +104,7 @@
 
 .data-area-bonuses p {
   font-size: 17px;
-  margin-top: 18px;
+  margin-top: 15px;
 }
 
 .data-area-bonuses {
@@ -137,7 +137,7 @@
 
 .bank-data {
   background-color: #ffffff;
-  padding: 30px 0px;
+  padding: 20px 0px;
 }
 
 .bank-data img {
@@ -155,7 +155,7 @@
   text-decoration: none;
 }
 .bank-mt {
-  margin-top: 35px;
+  margin-top: 20px;
 }
 
 .bank-data:hover img {
@@ -165,23 +165,23 @@
 .history-bd {
   background-color: #5848d5;
   color: white;
-  padding: 80px 0px;
+  padding: 40px 0px;
 }
 
 .history-data h2 {
   font-size: 28px;
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 }
 
 .history-data {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
 
 .ptb {
-  padding: 80px 0px;
+  padding: 20px 0px;
 }
 
-.Casinobles {
+.Chipsinos {
   width: 100%;
   height: 100%;
 }
@@ -239,4 +239,9 @@
 }
 .gambling-bg {
   background-color: #5848d5;
+}
+
+.logo-home{
+  height: auto;
+  width: 350px;
 }

@@ -10,7 +10,7 @@ import d1 from "../assets/lol-logo.svg";
 // import d1 from "../assets/d1How-to-Choose-a-Sport.png.webp";
 // import d2 from "../assets/d2Hedging-Bet.png.webp";
 // import d3 from "../assets/d3Observe.png.webp";
-import AllCasino from "./AllCasino";
+import AllCasino1 from "./AllCasino1";
 import "./HomePage.css";
 import "./MobileCasino.css";
 
@@ -39,11 +39,11 @@ const Esport = () => {
       <h1 className="text-center roboto-black mt10">
             Top 10 eSports Betting  Casino with Real Money
       </h1>
-      <AllCasino></AllCasino>
+      <AllCasino1></AllCasino1>
       <div className="container-fluid bg-blue">
         <div className="container ">
           <div className="row ">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black ">How We Review</h2>
               <p className="roboto-light mt-b-para">
                 Just a few years ago, no one could have imagined what a huge
@@ -52,7 +52,7 @@ const Esport = () => {
                 Today, it’s ravaging the global betting market, becoming even
                 more popular than NBA. <br />
                 <br />
-                As eSports is such a new field, our team at Casinoble decided to
+                As eSports is such a new field, our team at Chipsino decided to
                 put together this guide as a way to bring all the essential
                 information to you. <br />
                 <br />
@@ -65,7 +65,7 @@ const Esport = () => {
                 To start your eSports adventure in Canada, don’t leave this
                 eSports guide unread. <br />
                 <br />
-                Casinoble aims to bring you the analysis of games, tournaments,
+                Chipsino aims to bring you the analysis of games, tournaments,
                 reviews and everything else about the online betting niche in
                 2024. <br />
                 <br />
@@ -86,7 +86,7 @@ const Esport = () => {
                 <br /> <br />
                 Sometimes, fresh bookmakers have a new take on the betting
                 world. <br /> <br />
-                That’s why Casinoble puts a lot of work into testing newly
+                That’s why Chipsino puts a lot of work into testing newly
                 established sites as well, though in this case, our check-ups
                 are even more rigorous. <br /> <br />
                 After all, our goal is to bring the best sites to you, no matter
@@ -101,7 +101,7 @@ const Esport = () => {
                 – if that’s the case, a license from Malta Gaming Authority
                 and/or British Gambling Commission is a must. <br /> <br />
                 If a new betting site doesn’t have a license, we won’t feature
-                it at Casinoble – that’s a rule we’ve set in stone. <br />{" "}
+                it at Chipsino – that’s a rule we’ve set in stone. <br />{" "}
                 <br />
                 After making sure there’s proper licensing, we can start
                 introducing the bookie’s fascinating options, odds and bonuses.{" "}
@@ -172,7 +172,7 @@ const Esport = () => {
         <div className="container ">
           <div className="row ">
             <div className="col-md-6">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black ">eSports Online</h2>
                 <p className="roboto-light mt-b-para">
                   The whole essence of eSports revolves around the internet.{" "}
@@ -215,7 +215,7 @@ const Esport = () => {
             <div className="col text-justify">
               <h2>Responsible Betting</h2>
               <p className=" roboto-light">
-              Responsible gambling isn’t exactly a term that gamblers like to hear but at Casinoble, it’s our main concern.  <br /><br />
+              Responsible gambling isn’t exactly a term that gamblers like to hear but at Chipsino, it’s our main concern.  <br /><br />
 
 While we love everything betting-related, it’s still essential for every Canadian player to think about their safety. <br /><br />
 
@@ -347,7 +347,7 @@ We only aim to promote an honest, healthy, safe, and fun environment where every
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                eSport is such a popular niche these days that you can make bets at almost any betting site in Canada. Casinoble recommendations highlight the best betting sites for Canadian players, so be sure to take a look at our lists.
+                eSport is such a popular niche these days that you can make bets at almost any betting site in Canada. Chipsino recommendations highlight the best betting sites for Canadian players, so be sure to take a look at our lists.
                 </div>
               </div>
             </div>
@@ -370,7 +370,7 @@ We only aim to promote an honest, healthy, safe, and fun environment where every
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                To find the best betting sites for eSports, all you need to do is take a look at the betting sites listed on Casinoble. Canadian players can play at any offshore betting sites that have received a proper license from relevant authorities, such as the British Gambling Commission.
+                To find the best betting sites for eSports, all you need to do is take a look at the betting sites listed on Chipsino. Canadian players can play at any offshore betting sites that have received a proper license from relevant authorities, such as the British Gambling Commission.
                 </div>
               </div>
             </div>

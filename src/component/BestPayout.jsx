@@ -2,7 +2,7 @@
 import React from "react";
 import master from "../assets/Gambling-Regulations-in-Canada.png.webp";
 import res from '../assets/How-to-Register-Deposit-at-Canadian-Online-Casinos.png.webp';
-import AllCasino from "./AllCasino";
+import AllCasino3 from "./AllCasino3";
 import "./HomePage.css";
 import "./MobileCasino.css";
 
@@ -27,16 +27,16 @@ const BestPayout = () => {
       <h1 className="text-center roboto-black mt10">
             Top 10  Payout Online  Casino with Real Money
       </h1>
-      <AllCasino></AllCasino>
+      <AllCasino3></AllCasino3>
       <div className="container-fluid bg-blue mt-row">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">
-              Casinoble Approach to Evaluating and Recommending Top-Paying Online Casinos in Canada
+              Chipsino Approach to Evaluating and Recommending Top-Paying Online Casinos in Canada
               </h2>
               <p className="roboto-light">
-              With a wealth of experience under its belt, Casinoble has fine-tuned a thorough analysis and examination process in the online gambling sector. Ensuring that we deliver only the most valuable and reliable information to our Canadian readers, we implement a stringent set of criteria to highlight premier online casinos, particularly focusing on their payout percentages.
+              With a wealth of experience under its belt, Chipsino has fine-tuned a thorough analysis and examination process in the online gambling sector. Ensuring that we deliver only the most valuable and reliable information to our Canadian readers, we implement a stringent set of criteria to highlight premier online casinos, particularly focusing on their payout percentages.
               </p>
               <p className="roboto-light">
               We recommend only those platforms that satisfy our elevated standards for fairness, player satisfaction, and payout expediency, all tailored to the Canadian market.
@@ -58,7 +58,7 @@ const BestPayout = () => {
             <p className="roboto-light">
             Bonuses and promotional offers are quintessential to the online casino experience. They enhance your initial bankroll and elevate the overall gaming experience by unlocking new exploratory paths and prolonging your playtime.
               <br />
-              Casinoble prioritizes online casinos offering generous and clear bonus structures for the Canadian audience. The moment a player receives a substantial bonus alongside a noteworthy payout, their overall winnings take a notable upswing. <br />
+              Chipsino prioritizes online casinos offering generous and clear bonus structures for the Canadian audience. The moment a player receives a substantial bonus alongside a noteworthy payout, their overall winnings take a notable upswing. <br />
               In addition, our assessments also weigh the ease of use of the bonus, the wagering requirements, and all associated terms and conditions.
             </p>
           </div>
@@ -72,7 +72,7 @@ const BestPayout = () => {
               </h2>
             </div>
             <p className="roboto-light">
-            While having an extensive game library is vital, ensuring that those games are of superior quality and offer significant payouts is equally crucial. Casinoble explores online casino game collections to ensure they host renowned, high-yielding games tailored for Canadian players. <br />
+            While having an extensive game library is vital, ensuring that those games are of superior quality and offer significant payouts is equally crucial. Chipsino explores online casino game collections to ensure they host renowned, high-yielding games tailored for Canadian players. <br />
             Identifying games that present a high Return to Player (RTP) involves scrutinizing recognized software developers. Engaging in a casino boasting lofty payout percentages enhances profitability odds.
             </p>
           </div>
@@ -85,7 +85,7 @@ const BestPayout = () => {
             </div>
             <p className="roboto-light">
             Ensuring mobile compatibility is imperative in our hyperconnected era. Mobile gamers should be able to seamlessly engage with their preferred titles.<br />
-            Casinoble attributes additional merit to casinos offering a user-friendly mobile experience, whether through an intuitive app or a mobile-optimized website, ensuring all devices can effortlessly access high-payout games.
+            Chipsino attributes additional merit to casinos offering a user-friendly mobile experience, whether through an intuitive app or a mobile-optimized website, ensuring all devices can effortlessly access high-payout games.
             </p>
           </div>
         </div>
@@ -112,7 +112,7 @@ Registration and Deposit Procedure
               </h2>
             </div>
             <p className="roboto-light">
-            High-payout online casinos significantly depend on their array of payment alternatives. Casinoble scrutinizes the availability and security of various payment methods, ensuring they resonate with Canadian players’ preferences. <br />
+            High-payout online casinos significantly depend on their array of payment alternatives. Chipsino scrutinizes the availability and security of various payment methods, ensuring they resonate with Canadian players’ preferences. <br />
             Additional steps are taken to affirm the safety and efficacy of these processes, aligning them with the tastes of Canadian players.
             </p>
           </div>
@@ -138,7 +138,7 @@ Registration and Deposit Procedure
               </h2>
             </div>
             <p className="roboto-light">
-            Hands-on experience can offer invaluable insights. Casinoble values player feedback, ensuring that the platforms we endorse have withstood the test of time. Positive testimonials, particularly regarding payouts, significantly shape our recommendations.
+            Hands-on experience can offer invaluable insights. Chipsino values player feedback, ensuring that the platforms we endorse have withstood the test of time. Positive testimonials, particularly regarding payouts, significantly shape our recommendations.
             </p>
           </div>
         </div>
@@ -232,7 +232,7 @@ Play Smart, Play Responsible: Always remember, while it’s about having fun, it
       <div className="container-fluid bg-blue ">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">
               Exploring the Ups and Downs of High Payout Casinos in Canada
               </h2>

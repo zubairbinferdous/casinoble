@@ -35,8 +35,8 @@ const BlackJack = () => {
       <div className="container-fluid bg-blue">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
-              <h2 className="roboto-black ">Casinoble’s Blackjack Guide</h2>
+            <div className="ChipsinoReviews">
+              <h2 className="roboto-black ">Chipsino’s Blackjack Guide</h2>
               <p className="roboto-light mt-b-para">
                 Blackjack is certainly one of the most popular casino games
                 around. <br />
@@ -52,7 +52,7 @@ const BlackJack = () => {
                 love to get started playing blackjack, you’re in the right
                 place. <br />
                 <br />
-                Casinoble has produced this extensive game guide to give you the
+                Chipsino has produced this extensive game guide to give you the
                 lowdown on all aspects of one of the casino industry’s most
                 enduring games. <br />
                 <br />
@@ -87,7 +87,7 @@ const BlackJack = () => {
       <div className="container-fluid Offering-bg">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black ">Online Blackjack</h2>
               <p className="roboto-light mt-b-para">
               With the invention of the internet and subsequent advances in web payments and development, online casinos burst onto the gambling scene in the mid-1990s. <br /><br />
@@ -116,7 +116,7 @@ Players needn’t wait for everyone else to finish trying their luck against the
       <div className="container-fluid ">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black ">Blackjack Hands</h2>
               <p className="roboto-light mt-b-para">
               Unlike in other card games, there aren’t really “hands” in blackjack. <br /> <br />

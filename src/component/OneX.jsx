@@ -288,7 +288,7 @@ To enjoy the games offered by 1xbet casino, you must have an account on this gam
  
 Here are the steps you need to follow to register on the 1xBet website:<br /> <br />
 
-Go on our exclusive Casinoble link to 1xBet Casino <br /> <br />
+Go on our exclusive Chipsino link to 1xBet Casino <br /> <br />
 Click on create an account or register <br /> <br />
 Fill in the information form: with your name, first name, address, email address, bank details, and your nickname<br /> <br />
 Choose your method of payment: the 1xbet site offers several methods of payment, you can for example make your deposit with your MasterCard, as you can do with a simple bank transfer<br /> <br /></p>

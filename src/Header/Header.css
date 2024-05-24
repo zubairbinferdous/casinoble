@@ -74,6 +74,7 @@ a {
 .nav__burger,
 .nav__close {
   color: var(--white-color);
+  
 }
 
 .nav__data {
@@ -88,6 +89,7 @@ a {
   align-items: center;
   column-gap: 0.25rem;
   font-weight: var(--font-semi-bold);
+  
   /* Color highlighting when pressed on mobile devices */
   /*-webkit-tap-highlight-color: transparent;*/
 }
@@ -342,3 +344,13 @@ a {
   align-items: center;
   transition: background-color 0.5s;
 }
+
+.logo-nav{
+  height: auto;
+  width: 270px;
+  padding-right: 70px;
+}
+
+
+
+

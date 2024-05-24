@@ -7,7 +7,7 @@ import google from "../assets/google-pay-payment.svg";
 import apple from "../assets/Group-1.svg";
 import res from '../assets/How-to-Register-Deposit-at-Canadian-Online-Casinos.png.webp';
 import master2 from "../assets/Mastering-Online-Casino-Play.png.webp";
-import AllCasino from "./AllCasino";
+import AllCasino2 from "./AllCasino2";
 
 import "./HomePage.css";
 import "./MobileCasino.css";
@@ -33,27 +33,27 @@ const BestCasino = () => {
         </div>
 
         <h1 className="text-center roboto-black mt10">
-            Top 10  Best Online  Casino with Real Money
+            Top 10 Best Online  Casino with Real Money
       </h1>
-        <AllCasino></AllCasino>
+        <AllCasino2></AllCasino2>
         <div className="container-fluid bg-blue mt-row">
           <div className="container ">
             <div className="row">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">
-                  Deciphering Online Casinos with Casinoble’s Proven Approach in
+                  Deciphering Online Casinos with Chipsino’s Proven Approach in
                   Canada
                 </h2>
                 <p className="roboto-light">
                   The journey to becoming a steadfast figure in the online
-                  gambling space has been rigorous but rewarding for Casinoble.
+                  gambling space has been rigorous but rewarding for Chipsino.
                   Through an unwavering commitment to elevating our strategies
                   and recommendations, we’ve ascended as a trustworthy beacon
                   for Canadian gamblers, tirelessly enhancing our evaluations
                   based on a meticulously crafted approach.
                 </p>
                 <p className="roboto-light">
-                  The team at Casinoble, a collection of seasoned gambling
+                  The team at Chipsino, a collection of seasoned gambling
                   professionals, assures comprehensive research that delves deep
                   into every conceivable aspect of a site, from its
                   user-friendliness to the robustness and fairness of its gaming
@@ -225,7 +225,7 @@ To reap the maximum benefits, players should be well-acquainted with the offer�
         <div className="container-fluid bg-blue">
           <div className="container">
             <div className="row">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">
                 Embrace the Excitement with Online Casino Games, Eh?
                 </h2>
@@ -233,7 +233,7 @@ To reap the maximum benefits, players should be well-acquainted with the offer�
                 Venture into the exhilarating world of online casinos, offering a little something for every Canuck looking to try their luck! From the riveting rotations of slot machines to the strategic allure of table games, players coast-to-coast find something that tickles their fancy and offers a slice of Vegas right from the Great White North.Here’s a
                 </p>
               </div>
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">
                 Slots
                 </h2>
@@ -241,13 +241,13 @@ To reap the maximum benefits, players should be well-acquainted with the offer�
                 Online slots, with their simplicity, enthralling visuals, and heart-pounding potential for massive winnings, have securely planted themselves as the top pick among online casino games in Canada. No longer just about spinning and hoping, today’s slots take players on adventures through historical epochs or into worlds yet to be imagined.
                 </p>
               </div>
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">Live Casino</h2>
                 <p className="roboto-light">
                 Experience the unmistakable thrills of traditional casinos from the comfort of your Canadian home with live casinos. Engage with real dealers via live streaming, bringing you right into the heart of the action, whether you’re in Vancouver or St. John’s.
                 </p>
               </div>
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">Blackjack</h2>
                 <p className="roboto-light">
                   Given its widespread popularity among card games in casinos,
@@ -258,7 +258,7 @@ To reap the maximum benefits, players should be well-acquainted with the offer�
                 </p>
               </div>
 
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">Roulette</h2>
                 <p className="roboto-light">
                 Roulette, the quintessential casino classic, spins a web of excitement by mingling fortune with a dash of strategy. With its iconic wheel featuring red and black pockets, players across Canada wager on the anticipated final resting spot of the diminutive ball.
@@ -310,7 +310,7 @@ Play Smart, Play Responsible: Always remember, while it’s about having fun, it
         <div className="container-fluid bg-blue">
           <div className="container">
             <div className="row">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">
                 Desktop Browsing: A Vast Gaming Landscape
                 </h2>
@@ -326,7 +326,7 @@ Play Smart, Play Responsible: Always remember, while it’s about having fun, it
 Security is a given, as browser developers consistently enhance their offerings with the latest security features, ensuring your gaming session is not only immersive but also secure.
                 </p>
               </div>
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">
                 Mobile Browsing: Your Pocket-Sized Casino
                 </h2>
@@ -340,7 +340,7 @@ The absence of an app download also sidesteps the need for additional storage sp
 Given the meticulous optimization for mobile, players can access a broad array of games, promotions, and other features on their Android and iOS devices while basking in the northern lights.
                 </p>
               </div>
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black">Mobile Apps: The Apex of Portable Play</h2>
                 <p className="roboto-light">
                 Mobile gaming apps have redefined accessibility, emerging as a pinnacle in portable entertainment across the Great White North. These native apps provide an unparalleled experience, tailored to leverage the functionalities and shape of your smartphone or tablet. No need to launch a web browser; a world of casino excitement is just a tap away. <br /><br />

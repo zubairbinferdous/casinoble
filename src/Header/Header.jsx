@@ -17,7 +17,7 @@ const Header = () => {
          <nav className="nav container">
             <div className="nav__data">
                <a href="/" className="nav__logo">
-                 <img src={logo} alt="" />
+                 <img src={logo} alt="" className="logo-nav"/>
                </a>
                
                <div className="nav__toggle" id="nav-toggle">
@@ -93,17 +93,17 @@ const Header = () => {
                      <ul className="dropdown__menu">
                         <li>
                            <Link to="/Baccarat" className="dropdown__link">
-                              <i className="ri-pie-chart-line"></i>Sports Betting Sites
+                              <i className="ri-pie-chart-line"></i>Baccarat
                            </Link>                          
                         </li>
                         <li>
                            <Link to="/BlackJack" className="dropdown__link">
-                              <i className="ri-pie-chart-line"></i>eSports Betting Sites
+                              <i className="ri-pie-chart-line"></i>Blackjack
                            </Link>                          
                         </li>
                         <li>
-                           <Link to="/BlackJack" className="dropdown__link">
-                              <i className="ri-pie-chart-line"></i>Free Sports Bets
+                           <Link to="/Free" className="dropdown__link">
+                              <i className="ri-pie-chart-line"></i>Free Slots
                            </Link>                          
                         </li>
                      

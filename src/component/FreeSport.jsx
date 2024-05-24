@@ -11,7 +11,7 @@ import res114 from "../assets/freeImportance-of-Licensed-Casinos.png.webp";
 // import d1 from "../assets/d1How-to-Choose-a-Sport.png.webp";
 // import d2 from "../assets/d2Hedging-Bet.png.webp";
 // import d3 from "../assets/d3Observe.png.webp";
-import AllCasino from "./AllCasino";
+import AllCasino1 from "./AllCasino1";
 import "./HomePage.css";
 import "./MobileCasino.css";
 const FreeSport = () => {
@@ -24,7 +24,7 @@ const FreeSport = () => {
               <div className="home-data">
                 <h1 className="roboto-black">Free Sport Bets</h1>
                 <h2 className="roboto-light">
-                  Casinoble pick the best Free Bet Offers for you!
+                  Chipsino pick the best Free Bet Offers for you!
                 </h2>
                 <p className="roboto-medium">
                   Get more chances to win big with free bets! Try now
@@ -38,7 +38,7 @@ const FreeSport = () => {
       <div className="container-fluid bg-blue mt100">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black text-center">
                 {" "}
                 Looking for ways to increase your chances of winning big when
@@ -52,7 +52,7 @@ const FreeSport = () => {
       <h1 className="text-center roboto-black mt10">
             Top 10 Free Sport Bets Casino with Real Money
       </h1>
-      <AllCasino></AllCasino>
+      <AllCasino1></AllCasino1>
       <div className="container-fluid Offering-bg">
         <div className="container Offering text-center">
           <div className="row">
@@ -82,7 +82,7 @@ const FreeSport = () => {
                 free bets. <br /> <br />
                 If that’s the case, we are explaining the nuances of free bets,
                 betting bonuses, terms, and much more. <br /> <br />
-                Casinoble Canada is your best pal when it comes to free bets and
+                Chipsino Canada is your best pal when it comes to free bets and
                 finding your best option for placing bets.Let’s get right into
                 finding the best bonuses and learning how to use them!
               </p>
@@ -117,7 +117,7 @@ const FreeSport = () => {
         <div className="container ">
           <div className="row ">
             <div className="col-md-6">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black ">Free Bet Terms</h2>
                 <p className="roboto-light mt-b-para">
                 Free bets are fun, but we have to discuss one part that’s really not so fun: terms and conditions. <br /><br />
@@ -132,7 +132,7 @@ Understandably, they don’t want anyone using their generosity with bad intenti
 
 We’d even go as far as to say that reasonable terms and conditions go hand in hand with any transparent, honest bookmaker.  <br /><br />
 
-Casinoble has spent a lot of time testing and researching conditions at different betting sites.  <br /><br />
+Chipsino has spent a lot of time testing and researching conditions at different betting sites.  <br /><br />
 
 That’s how we can highlight the main factors you should consider when it comes to free bet conditions.
                 </p>
@@ -314,7 +314,7 @@ You can reap many different rewards as an existing punter, but here are the main
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                To find the best free bets in Canada, all you need to do is take a closer look at the recommendations here at Casinoble! We’ve gathered together all the free bet offers available in 2024, so you can just choose the best betting site and get started.
+                To find the best free bets in Canada, all you need to do is take a closer look at the recommendations here at Chipsino! We’ve gathered together all the free bet offers available in 2024, so you can just choose the best betting site and get started.
                 </div>
               </div>
             </div>

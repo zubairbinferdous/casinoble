@@ -34,7 +34,7 @@ const Baccarat = () => {
       <div className="container-fluid bg-blue mt100">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <p className="roboto-light">
                 Baccarat Live is an online version of Baccarat where you can
                 play with a live dealer connected via live streaming utilizing
@@ -122,7 +122,7 @@ In fact, even though these may seem convenient, they increase the advantage of t
         <div className="container ">
           <div className="row">
             <h1 className="text-center pb">Play Baccarat in Canada</h1>
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <p className="roboto-light">
               In Canada, many players ignore the basic rules of the baccarat game, as they are more familiar with games such as Blackjack and Poker. <br /><br />
 

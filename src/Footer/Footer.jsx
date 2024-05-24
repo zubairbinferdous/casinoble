@@ -1,6 +1,7 @@
 /* eslint-disable no-unused-vars */
 import React from "react";
-import Casinobles_logo from "../assets/Casinobles-Goal-and-Mission.svg";
+import Chipsinos_logo from "../assets/Casinobles-Goal-and-Mission.svg";
+import './Footer.css'
 
 const Footer = () => {
   return (
@@ -11,7 +12,7 @@ const Footer = () => {
             <div className="col-md-2">
               <div className="footer-data">
                 <div className="footer-img">
-                  <img src={Casinobles_logo} alt="" />
+                  <img src={Chipsinos_logo} alt="" className="logo-footer" />
                 </div>
               </div>
             </div>

@@ -36,12 +36,12 @@ const Slots = () => {
         <div className="container ">
           <h1 className="text-center pb2">How We Review</h1>
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <p className="roboto-light">
                 You would think that huge selection means it’s easier to find
                 the right game but you’d think wrong. <br /> <br />
                 That endless selection can make your head spin! <br /> <br />
-                This is where sites like Casinoble come into play – we bring the
+                This is where sites like Chipsino come into play – we bring the
                 best slot games to you through our reviews and articles, so you
                 wouldn’t have to scroll for hours. <br /> <br />
                 Slots are seemingly very simple games but there are actually
@@ -74,7 +74,7 @@ You as a player can use this for your benefit, enjoying new and improved technol
 
 Plus, new slot sites are perfectly optimised for every device, including mobile devices. <br /> <br />
 
-Casinoble listings only showcase slot sites that have received proper licensing for Canadian players. <br /> <br />
+Chipsino listings only showcase slot sites that have received proper licensing for Canadian players. <br /> <br />
 
 Casinos have to pass rigorous testing in order to obtain a license. <br /> <br />
 
@@ -97,12 +97,12 @@ In that case, we’ll still need to test the casino again to ensure that we only
         <div className="container ">
           <div className="row ">
             <div className="col-md-6">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black ">Latest Slot Sites</h2>
                 <p className="roboto-light mt-b-para">
                 The aforementioned aspects are always applied to the latest slot sites as well. <br /> <br />
 
-To establish the site’s worthiness, Casinoble checks all Canadian casinos thoroughly. <br /> <br />
+To establish the site’s worthiness, Chipsino checks all Canadian casinos thoroughly. <br /> <br />
 
 Thanks to our comparisons, you don’t have to spend hours figuring out these tiny details since we’ve done all the heavy lifting for you. <br /> <br />
 
@@ -161,7 +161,7 @@ Real money slots will open the doors to potentially massive winnings. <br /> <br
         <div className="container ">
           <div className="row ">
             <div className="col-md-6">
-              <div className="CasinobleReviews">
+              <div className="ChipsinoReviews">
                 <h2 className="roboto-black ">Slot Sites with Highest Payout</h2>
                 <p className="roboto-light mt-b-para">
                 Two slot sites can look almost completely the same but their difference lies in one silent statistic: their payout ratio. <br /> <br />
@@ -231,7 +231,7 @@ These are the games you should opt for if you’re looking for an especially thr
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                1. What’s Casinoble all about?
+                1. What’s Chipsino all about?
                 </button>
               </h2>
               <div
@@ -240,7 +240,7 @@ These are the games you should opt for if you’re looking for an especially thr
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Casinoble is a site dedicated to comparing online casinos and everything that has to do with gambling. As slot games are a big part of that, we focus strongly on slots and bring the best of the industry to you through our in-depth articles.
+                Chipsino is a site dedicated to comparing online casinos and everything that has to do with gambling. As slot games are a big part of that, we focus strongly on slots and bring the best of the industry to you through our in-depth articles.
                 </div>
               </div>
             </div>

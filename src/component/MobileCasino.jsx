@@ -515,13 +515,13 @@ const MobileCasino = () => {
       <div className="container-fluid bg-blue mt-row">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">
-                Casinoble Comprehensive Review Process for New Online Casino
+                Chipsino Comprehensive Review Process for New Online Casino
                 Platforms
               </h2>
               <p className="roboto-light">
-                Here at Casinoble, we’re fuelled by a steadfast dedication to
+                Here at Chipsino, we’re fuelled by a steadfast dedication to
                 ensuring our Canadian audience gets only the top-notch online
                 gambling experiences, thoroughly vetted through our meticulous
                 review processes.
@@ -531,7 +531,7 @@ const MobileCasino = () => {
                 casino domain, we’ve refined an extensive testing strategy,
                 dissecting every facet of a gambling website, from its bonus
                 allure to the standard of its customer service. If it has the
-                Casinoble seal of approval, a new gambling site isn’t just good;
+                Chipsino seal of approval, a new gambling site isn’t just good;
                 it’s exceptional.
               </p>
             </div>
@@ -555,7 +555,7 @@ const MobileCasino = () => {
               gambling, where numerous sites vye for the attention of Canadian
               players, a handsome bonus can indeed make a world of difference.{" "}
               <br />
-              Our team at Casinoble delves deep into evaluating these offers,
+              Our team at Chipsino delves deep into evaluating these offers,
               ensuring they not only shine in terms of genuine value and
               fairness but also present a genuine opportunity of winning for the
               player. Going above and beyond flashy promotions, we ensure that
@@ -582,7 +582,7 @@ const MobileCasino = () => {
               enthralling live dealer interactions, the software backing these
               games, from giants like Microgaming, NetEnt, or Playtech, must
               assure the most avant-garde visuals, gameplay, and outcomes. We at
-              Casinoble, scrutinize both the games and their developers,
+              Chipsino, scrutinize both the games and their developers,
               ensuring a top-tier gameplay experience for our Canadian audience.
             </p>
           </div>
@@ -600,7 +600,7 @@ const MobileCasino = () => {
               mobile version is crucial. <br />
               Ensuring high-quality visuals, brisk load times, and intuitive
               controls, some players might also favour app usage over browsing,
-              adding another dimension to mobile gaming. Casinoble champions
+              adding another dimension to mobile gaming. Chipsino champions
               those online casinos that prioritize offering a sterling mobile
               experience, reflecting a dedication to contemporary gaming needs
               and user convenience.
@@ -622,7 +622,7 @@ const MobileCasino = () => {
               secure registration, corroborated with instant confirmations via
               email or SMS, and a straightforward deposit procedure are
               quintessential. <br />
-              We prioritize these initial phases at Casinoble, as they not only
+              We prioritize these initial phases at Chipsino, as they not only
               set the stage for a player’s entire journey but are also
               indicative of the reliability and user-friendliness of a casino’s
               digital interface.
@@ -645,7 +645,7 @@ const MobileCasino = () => {
               Casinos providing an extensive array of deposit and withdrawal
               avenues, including cryptocurrency and traditional bank transfers,
               are a nod towards international inclusivity and player
-              convenience. Casinoble accentuates these features, knowing well
+              convenience. Chipsino accentuates these features, knowing well
               that trustworthy financial transactions are cardinal to sustaining
               player trust.
             </p>
@@ -662,7 +662,7 @@ const MobileCasino = () => {
               vigilance towards player protection is pivotal. Players must be
               assured that their delicate data, like payment details, is
               securely shielded from unsolicited scrutiny. <br />
-              Casinoble gives paramount importance to the safety protocols
+              Chipsino gives paramount importance to the safety protocols
               employed by a casino. No matter how enticing a casino’s game
               offerings and promotions might be, if its safety provisions are
               flimsy, it cannot guarantee players’ peace and assurance, which
@@ -685,7 +685,7 @@ const MobileCasino = () => {
               experiences shed light on facets of the platform that neither
               official narratives nor promotional materials can illuminate.{" "}
               <br />
-              Casinoble holds player feedback in high regard, valuing the
+              Chipsino holds player feedback in high regard, valuing the
               communal wisdom it portrays about a casino’s inner machinations.
               Persistent themes in customer reviews often serve as a bellwether
               of what one might anticipate from an online casino.
@@ -706,7 +706,7 @@ const MobileCasino = () => {
               support becomes imperative. From tech glitches to queries about
               bonuses, a casino’s dedication to a frictionless gaming journey is
               often reflected in its customer service quality. <br />
-              Casinoble pays undivided attention to this facet, well aware that
+              Chipsino pays undivided attention to this facet, well aware that
               even the most glamorous games and promotions cannot salvage a
               casino’s reputation if its customer service falters. Stellar
               customer support not only fosters trust but also assures sustained
@@ -817,7 +817,7 @@ const MobileCasino = () => {
           </p>
           <br /> <br /> <br />
           <p>
-            In the spirit of genuine transparency with our readers, Casinoble
+            In the spirit of genuine transparency with our readers, Chipsino
             engages in meticulous research, scrutinizing licenses, software
             reliability, and security protocols, ensuring they align with
             Canadian gaming norms and expectations. While seasoned casinos have
@@ -833,7 +833,7 @@ const MobileCasino = () => {
             In this Canadian context, it’s paramount to accentuate that both
             seasoned and new gaming platforms bring something valuable to the
             table. With well-versed knowledge of the local gaming landscape,
-            Casinoble remains a trustworthy guide, navigating you through the
+            Chipsino remains a trustworthy guide, navigating you through the
             exhilarating yet safe world of online casinos in Canada.
           </p>
         </div>
@@ -842,7 +842,7 @@ const MobileCasino = () => {
       <div className="container-fluid bg-blue">
         <div className="container">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">
                 Top Games on New Canadian Casino Websites
               </h2>
@@ -855,7 +855,7 @@ const MobileCasino = () => {
                 as a focal point for
               </p>
             </div>
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">
                 Online Casino Bonuses Tailored for Canadian Gamers
               </h2>
@@ -868,7 +868,7 @@ const MobileCasino = () => {
                 commitment to
               </p>
             </div>
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">Roulette</h2>
               <p className="roboto-light">
                 Roulette, a game profoundly based on luck, perpetually retains
@@ -880,7 +880,7 @@ const MobileCasino = () => {
                 experience.
               </p>
             </div>
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black">Blackjack</h2>
               <p className="roboto-light">
                 Given its widespread popularity among card games in casinos,
@@ -907,7 +907,7 @@ const MobileCasino = () => {
 
             <p>
               Embarking on a journey through a fresh online casino can be both
-              thrilling and potentially lucrative. At Casinoble, we’re here to
+              thrilling and potentially lucrative. At Chipsino, we’re here to
               guide Canadian players through seamless and rewarding online
               gaming experiences: <br />
               <br />

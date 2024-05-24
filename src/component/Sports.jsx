@@ -5,7 +5,7 @@ import res11 from "../assets/Real2-Money-Betting-565x430.png.webp";
 import d1 from "../assets/d1How-to-Choose-a-Sport.png.webp";
 import d2 from "../assets/d2Hedging-Bet.png.webp";
 import d3 from "../assets/d3Observe.png.webp";
-import AllCasino from "./AllCasino";
+import AllCasino1 from "./AllCasino1";
 import "./HomePage.css";
 import "./MobileCasino.css";
 const Sports = () => {
@@ -33,14 +33,14 @@ const Sports = () => {
       <h1 className="text-center roboto-black mt10">
             Top 10 Sports Betting Casino with Real Money
       </h1>
-      <AllCasino></AllCasino>
+      <AllCasino1></AllCasino1>
       <div className="container-fluid bg-blue">
         <div className="container ">
           <div className="row">
-            <div className="CasinobleReviews">
+            <div className="ChipsinoReviews">
               <h2 className="roboto-black text-center">How We Review</h2>
               <p className="roboto-light mt-b-para">
-                Casinoble takes good care in checking every sports betting site
+                Chipsino takes good care in checking every sports betting site
                 thoroughly. <br /> <br />
                 Our team has years of experience under our belt, enabling us to
                 see through weak bookmakers right away. <br /> <br />
@@ -67,7 +67,7 @@ const Sports = () => {
                 site and be equipped with mobile betting apps for both Android
                 and iOS. Entertainment: The main reason for sports betting is to
                 have fun and entertain yourself, but some betting sites forget
-                that. Casinoble focuses on the entertainment factor though,
+                that. Chipsino focuses on the entertainment factor though,
                 bringing only enjoyable betting sites to you.
                 <br />
                 <br />
@@ -75,7 +75,7 @@ const Sports = () => {
                 entertaining experience. Top betting sites offer a variety of
                 extra perks, ranging from deposit bonuses to free bets. Not all
                 betting bonuses are equal though and that’s exactly where
-                Casinoble comes in. We go deep into the terms and conditions,
+                Chipsino comes in. We go deep into the terms and conditions,
                 making sure that the site is actually offering a reasonable
                 bonus.
                 <br />
@@ -91,7 +91,7 @@ const Sports = () => {
                 Betting Options: Soccer rules the betting sites but
                 understandably, you’ll get bored if you only bet on soccer. For
                 that reason, it’s crucial to choose as versatile betting site as
-                possible. We at Casinoble prefer sports betting sites with a
+                possible. We at Chipsino prefer sports betting sites with a
                 plethora of betting markets, including more rare sports and
                 local markets. Payment Methods: Without decent payment methods
                 there’s really nothing to gain from a betting site. After all,
@@ -104,7 +104,7 @@ const Sports = () => {
                 certain terms and conditions attached to their bonuses. It’s
                 completely understandable though as the site has to protect its
                 integrity and avoid scammers from abusing the betting site.
-                Casinoble recommends only fair and transparent bookmakers who
+                Chipsino recommends only fair and transparent bookmakers who
                 provide clear instructions for proper withdrawals (and don’t
                 mislead you with harsh requirements).
                 <br />
@@ -113,7 +113,7 @@ const Sports = () => {
                 but that’s not really a sustainable support solution. Instead,
                 you’ll want to sign up at a bookmaker who can provide reliable
                 consistent support. Betting sites with phone support, email
-                support, live chat and FAQs are preferred by Casinoble.
+                support, live chat and FAQs are preferred by Chipsino.
                 <br />
                 <br />
                 Customer Service: In addition to the support ways, the service
@@ -141,7 +141,7 @@ const Sports = () => {
                 <br /> <br />
                 Sometimes, fresh bookmakers have a new take on the betting
                 world. <br /> <br />
-                That’s why Casinoble puts a lot of work into testing newly
+                That’s why Chipsino puts a lot of work into testing newly
                 established sites as well, though in this case, our check-ups
                 are even more rigorous. <br /> <br />
                 After all, our goal is to bring the best sites to you, no matter
@@ -156,7 +156,7 @@ const Sports = () => {
                 – if that’s the case, a license from Malta Gaming Authority
                 and/or British Gambling Commission is a must. <br /> <br />
                 If a new betting site doesn’t have a license, we won’t feature
-                it at Casinoble – that’s a rule we’ve set in stone. <br />{" "}
+                it at Chipsino – that’s a rule we’ve set in stone. <br />{" "}
                 <br />
                 After making sure there’s proper licensing, we can start
                 introducing the bookie’s fascinating options, odds and bonuses.{" "}
@@ -351,7 +351,7 @@ That’s exactly why you have to study the teams and players thoroughly – even
                   aria-expanded="true"
                   aria-controls="collapseOne"
                 >
-                1. How Casinoble reviews sports betting sites?
+                1. How Chipsino reviews sports betting sites?
                 </button>
               </h2>
               <div
@@ -360,7 +360,7 @@ That’s exactly why you have to study the teams and players thoroughly – even
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Casinoble is first and foremost a betting comparison site where you’ll find in-depth reviews of the best licensed Canadian betting sites. To bring the best sites to you, we adhere to strict standards that weed out weak sites. In the end, our recommendations will only showcase safe and trustworthy bookmakers.
+                Chipsino is first and foremost a betting comparison site where you’ll find in-depth reviews of the best licensed Canadian betting sites. To bring the best sites to you, we adhere to strict standards that weed out weak sites. In the end, our recommendations will only showcase safe and trustworthy bookmakers.
                 </div>
               </div>
             </div>
@@ -383,7 +383,7 @@ That’s exactly why you have to study the teams and players thoroughly – even
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Bonuses are very common, so you are not dealing with anything abnormal when you find a huge welcome bonus. However, to determine its actual value, take a closer look at the bonus conditions which detail every single thing you need to follow for redeeming the bonus. Casinoble also lists some of the best betting bonuses for you.
+                Bonuses are very common, so you are not dealing with anything abnormal when you find a huge welcome bonus. However, to determine its actual value, take a closer look at the bonus conditions which detail every single thing you need to follow for redeeming the bonus. Chipsino also lists some of the best betting bonuses for you.
                 </div>
               </div>
             </div>
@@ -406,7 +406,7 @@ That’s exactly why you have to study the teams and players thoroughly – even
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Bonuses are very common, so you are not dealing with anything abnormal when you find a huge welcome bonus. However, to determine its actual value, take a closer look at the bonus conditions which detail every single thing you need to follow for redeeming the bonus. Casinoble also lists some of the best betting bonuses for you.
+                Bonuses are very common, so you are not dealing with anything abnormal when you find a huge welcome bonus. However, to determine its actual value, take a closer look at the bonus conditions which detail every single thing you need to follow for redeeming the bonus. Chipsino also lists some of the best betting bonuses for you.
                 </div>
               </div>
             </div>
@@ -477,7 +477,7 @@ That’s exactly why you have to study the teams and players thoroughly – even
                 data-bs-parent="#accordionExample"
               >
                 <div className="accordion-body roboto-light">
-                Some bookmakers offer better markets, some offer better bonuses, some stun their players with great odds. Which site is the best, depends largely on what you’re after. A few bookmakers stand out from the crowd, so take a look at Casinoble’s highlighted betting sites which might be the best for your taste too.
+                Some bookmakers offer better markets, some offer better bonuses, some stun their players with great odds. Which site is the best, depends largely on what you’re after. A few bookmakers stand out from the crowd, so take a look at Chipsino’s highlighted betting sites which might be the best for your taste too.
                 </div>
               </div>
             </div>
