@@ -3,3 +3,12 @@
     width: 250px;
     padding-right: 30px;
 }
+
+.footer-item{
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.footer{
+    padding: 50px 0px;
+}

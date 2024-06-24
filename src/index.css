@@ -30,13 +30,13 @@ body {
 
 footer {
   background-color: #0d0c52;
-  padding: 160px 0px;
+  padding: 50px 0px;
 }
 
 .footer-item h4 {
   font-size: 16px;
   color: white;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
 }
 
 .footer-item ul li {
@@ -345,4 +345,83 @@ footer {
   padding: 10%;
   background-color: #221e79cf;
   border-radius: 10px;
+}
+
+.ptb {
+  padding: 50px 0px;
+}
+
+.FAQ-data {
+  margin: 50px 0px;
+}
+
+.history-data {
+  margin-bottom: 50px;
+}
+
+.Methodology_data {
+  margin: 50px 0px;
+}
+
+.Methodology_data h2 {
+  margin-top: 40px;
+  font-size: 30px;
+}
+
+.CasinobleReviews h2 {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 30px;
+}
+
+.mt150 {
+  margin-top: 50px;
+  margin-bottom: 80px;
+}
+
+.bg-data {
+  background-color: #37346e;
+  border-radius: 0px;
+  padding: 100px;
+  color: white;
+  margin-bottom: 150px;
+}
+
+.Review_area p {
+  font-size: 19px;
+}
+
+.bb-review2 p {
+  font-size: 11px;
+  padding: 11px 0px;
+  display: inline-block;
+  margin: 0px;
+  font-weight: bold;
+}
+
+.bonus {
+  font-weight: 900;
+  font-style: normal;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  color: #f6f9fe;
+  margin-top: 5px;
+  margin-left: 80px;
+}
+
+.bonus2 {
+  font-weight: 900;
+  font-style: normal;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  color: #f6f9fe;
+  margin-top: 5px;
+  margin-left: 80px;
+}
+
+.general {
+  background-color: #0d0c52;
+  color: white;
+  border-radius: 10px;
+  margin-top: 15px;
 }

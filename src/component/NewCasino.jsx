@@ -44,7 +44,7 @@ const NewCasino = () => {
         </div>
       </div>
 
-      <div className="container bg-data">
+      <div className="container-fluid bg-data">
         <h2 className="Review">How We Review</h2>
         <div className="row">
           <div className="col-md-12 data-area-bonuses-part2">

@@ -59,14 +59,14 @@ Our reviews holistically encompass every vital element of a top-notch online cas
         </div>
       </div>
 
-      <div className="container bg-data mt200">
-        <h2 className="text-center Review">How We Review</h2>
+      <div className="container-fluid bg-data">
+        <h2 className="Review">How We Review</h2>
         <div className="row">
           <div className="col-md-12 data-area-bonuses-part2">
             <div className="link-area">
               <span className="roboto-black ">1</span>
               <h2 className="roboto-black text-white">
-                Perusing Bonuses and Promotions
+              Perusing Bonuses and Promotions
               </h2>
             </div>
             <p className="roboto-light">

@@ -16,6 +16,11 @@ import lucky from '../assets/lucky141x80.png';
 import Playzilla from "../assets/playzilla-casino-logo-1-160x22.png.webp";
 import "./HomePage.css";
 import "./MobileCasino.css";
+import Hotbet from '../assets/hotbet-logo.svg';
+import Spinarium from '../assets/spinarium-casino-logo.svg';
+import Betchain from '../assets/betchain-casino-logo.svg';
+import Run4win from '../assets/run4win-logo.svg';
+import tfSlots from '../assets/24slots-casino-logo.svg';
 
 const AllCasino2 = () => {
     return (
@@ -206,6 +211,282 @@ const AllCasino2 = () => {
                   <span>
                     {" "}
                     <a href="/Grand">review</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row bg-color">
+            <div className="col-md-2">
+              <div className="casino-img">
+                <img src={BetPlays} alt="" />
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="casino-one">
+                <p>welcome bonus</p>
+                <h2>100% Up to C$2000 + 250 FREE SPINS</h2>
+                <h4>x40 Wagering | 18 + | New customers only...</h4>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>min deposit</p>
+                <h2>CA$10</h2>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>payment methods</p>
+                <div className="casino-div-img">
+                  <img src={google} alt="" />
+                  <img src={master} alt="" />
+                  <img src={apple} alt="" />
+                  <img src={interac} alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-button-area ">
+                <div className="casino-button-data text-center">
+                  <a href="https://betplays.com/" className="casino_button">
+                    Play now
+                  </a>
+                  <br />
+                  <span>
+                    {" "}
+                    <a href="/Betplay">review</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row bg-color">
+            <div className="col-md-2">
+              <div className="casino-img">
+                <img src={Hotbet} alt="" />
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="casino-one">
+                <p>welcome bonus</p>
+                <h2>100% Up to CA$300</h2>
+                <h4>x35 Wagering | 18 + | New customers only...</h4>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>min deposit</p>
+                <h2>CA$30</h2>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>payment methods</p>
+                <div className="casino-div-img">
+                  <img src={google} alt="" />
+                  <img src={master} alt="" />
+                  <img src={apple} alt="" />
+                  <img src={interac} alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-button-area ">
+                <div className="casino-button-data text-center">
+                  <a href="https://hotbet.abmbet.com/landing-hot-bet/ca/casino4in1/?btag=cx_35864_384592&register=true&coupon=HBWEL100" className="casino_button">
+                    Play now
+                  </a>
+                  <br />
+                  <span>
+                    {" "}
+                    <a href="/Hotbet">review</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row bg-color">
+            <div className="col-md-2">
+              <div className="casino-img">
+                <img src={Spinarium} alt="" />
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="casino-one">
+                <p>welcome bonus</p>
+                <h2>400% Up to $2000 + 200FS</h2>
+                <h4>x35 Wagering | 18+ | New customers only...</h4>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>min deposit</p>
+                <h2>CA$30</h2>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>payment methods</p>
+                <div className="casino-div-img">
+                  <img src={google} alt="" />
+                  <img src={master} alt="" />
+                  <img src={apple} alt="" />
+                  <img src={interac} alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-button-area ">
+                <div className="casino-button-data text-center">
+                <a href="https://spinarium3.com/?stag=92263_66508627d760469277a80d60&auth=register" className="casino_button">
+                    Play now
+                  </a>
+                  <br />
+                  <span>
+                    {" "}
+                    <a href="/Spinarium">review</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row bg-color">
+            <div className="col-md-2">
+              <div className="casino-img">
+                <img src={Betchain} alt="" />
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="casino-one">
+                <p>welcome bonus</p>
+                <h2>125% Up to 500EUR + 200 FS</h2>
+                <h4>x40 Wagering | 18+ | New Customers Only...</h4>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>min deposit</p>
+                <h2>CA$20</h2>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>payment methods</p>
+                <div className="casino-div-img">
+                  <img src={google} alt="" />
+                  <img src={master} alt="" />
+                  <img src={apple} alt="" />
+                  <img src={interac} alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-button-area ">
+                <div className="casino-button-data text-center">
+                <a href="https://betchain.com/en?stag=215384_66508630d760469277a80e13" className="casino_button">
+                    Play now
+                  </a>
+                  <br />
+                  <span>
+                    {" "}
+                    <a href="/Betchain">review</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row bg-color">
+            <div className="col-md-2">
+              <div className="casino-img">
+                <img src={Run4win} alt="" />
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="casino-one">
+                <p>welcome bonus</p>
+                <h2>CA$2010 + 300 Free Spins</h2>
+                <h4>x40 Wagering | 18+ | New Customers Only...</h4>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>min deposit</p>
+                <h2>CA$30</h2>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>payment methods</p>
+                <div className="casino-div-img">
+                  <img src={google} alt="" />
+                  <img src={master} alt="" />
+                  <img src={apple} alt="" />
+                  <img src={interac} alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-button-area ">
+                <div className="casino-button-data text-center">
+                <a href="https://www.run4win.com/en-CA/welcome-package" className="casino_button">
+                    Play now
+                  </a>
+                  <br />
+                  <span>
+                    {" "}
+                    <a href="/Run4Win">review</a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div className="row bg-color">
+            <div className="col-md-2">
+              <div className="casino-img">
+                <img src={tfSlots} alt="" />
+              </div>
+            </div>
+            <div className="col-md-4">
+              <div className="casino-one">
+                <p>welcome bonus</p>
+                <h2>Up to CA$1500</h2>
+                <h4>x40 Wagering | 18+ | New Customers Only...</h4>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>min deposit</p>
+                <h2>CA$15</h2>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-one">
+                <p>payment methods</p>
+                <div className="casino-div-img">
+                  <img src={google} alt="" />
+                  <img src={master} alt="" />
+                  <img src={apple} alt="" />
+                  <img src={interac} alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="col-md-2">
+              <div className="casino-button-area ">
+                <div className="casino-button-data text-center">
+                <a href="https://24slotspromo.com/cowboy/?btag=cx_36169_407178" className="casino_button">
+                    Play now
+                  </a>
+                  <br />
+                  <span>
+                    {" "}
+                    <a href="/24Slots">review</a>
                   </span>
                 </div>
               </div>

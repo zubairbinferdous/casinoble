@@ -8,6 +8,7 @@ import Baccarat from './component/Baccarat.jsx';
 import BestCasino from './component/BestCasino.jsx';
 import BestPayout from './component/BestPayout.jsx';
 import Betbest from './component/Betbest.jsx';
+import Betchain from './component/Betchain.jsx';
 import Betpaly from './component/Betpaly.jsx';
 import Bettw from './component/Bettw.jsx';
 import BlackJack from './component/BlackJack.jsx';
@@ -19,6 +20,7 @@ import Ggbet from './component/Ggbet.jsx';
 import Google from './component/Google.jsx';
 import Grand from './component/Grand.jsx';
 import HomePage from './component/HomePage.jsx';
+import Hotbet from './component/Hotbet.jsx';
 import Interac from './component/Interac.jsx';
 import Lucky from './component/Lucky.jsx';
 import Master from './component/Master.jsx';
@@ -29,8 +31,11 @@ import OneX from './component/OneX.jsx';
 import Playzilla from './component/Playzilla.jsx';
 import Roll from './component/Roll.jsx';
 import Rplay from './component/Rplay.jsx';
+import Run4Win from './component/Run4Win.jsx';
 import Slots from './component/Slots.jsx';
+import Spinarium from './component/Spinarium.jsx';
 import Sports from './component/Sports.jsx';
+import TFSlots from './component/TFSlots.jsx';
 import './index.css';
 
 // eslint-disable-next-line no-unused-vars
@@ -131,6 +136,7 @@ const router = createBrowserRouter([
 
   ]
   },
+  
   {
     path:'/Rplay',
     element:<Rplay></Rplay>
@@ -170,6 +176,26 @@ const router = createBrowserRouter([
   {
     path:'/Betplay',
     element:<Betpaly></Betpaly>
+  },
+  {
+    path:'/Hotbet',
+    element:<Hotbet></Hotbet>
+  },
+  {
+    path:'/Spinarium',
+    element:<Spinarium></Spinarium>
+  },
+  {
+    path:'/Betchain',
+    element:<Betchain></Betchain>
+  },
+  {
+    path:'/Run4Win',
+    element:<Run4Win></Run4Win>
+  },
+  {
+    path:'/24Slots',
+    element:<TFSlots></TFSlots>
   },
 ])
 

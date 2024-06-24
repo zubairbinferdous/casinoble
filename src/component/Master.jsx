@@ -44,182 +44,182 @@ const Master = () => {
         </h1>
         <AllCasino3></AllCasino3>
   
-        <div className="container bg-data mt200">
-          <h2 className="text-center Review">How We Review</h2>
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">1</span>
-                <h2 className="roboto-black text-white">
-                  Perusing Bonuses and Promotions
-                </h2>
-              </div>
-              <p className="roboto-light">
-                Online casinos employ bonuses and promotions as vital tools to
-                captivate and retain players. In the bustling domain of online
-                gambling, where numerous sites vye for the attention of Canadian
-                players, a handsome bonus can indeed make a world of difference.{" "}
-                <br />
-                Our team at Chipsino delves deep into evaluating these offers,
-                ensuring they not only shine in terms of genuine value and
-                fairness but also present a genuine opportunity of winning for the
-                player. Going above and beyond flashy promotions, we ensure that
-                gamers reap actual benefits from the bonuses at recommended online
-                casinos.
-              </p>
+        <div className="container-fluid bg-data">
+        <h2 className="Review">How We Review</h2>
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">1</span>
+              <h2 className="roboto-black text-white">
+              Perusing Bonuses and Promotions
+              </h2>
             </div>
-          </div>
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">2</span>
-                <h2 className="roboto-black text-white">
-                  Scanning Game Availability and Software Providers
-                </h2>
-              </div>
-              <p className="roboto-light">
-                An online casino that brings value to the table will flaunt a
-                plethora of games, powered by reliable software developers.
-                Especially crucial for Canadians who seek escalating excitement,
-                the breadth and quality of offered games can make or break a
-                platform. <br />
-                Whether one is a fan of classic slot games, high-stakes poker, or
-                enthralling live dealer interactions, the software backing these
-                games, from giants like Microgaming, NetEnt, or Playtech, must
-                assure the most avant-garde visuals, gameplay, and outcomes. We at
-                Chipsino, scrutinize both the games and their developers,
-                ensuring a top-tier gameplay experience for our Canadian audience.
-              </p>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">3</span>
-                <h2 className="roboto-black text-white">Mobile Integration</h2>
-              </div>
-              <p className="roboto-light">
-                In an era dominated by mobile technology, an elite mobile gaming
-                experience is indispensable. Catering to Canadians who may prefer
-                to engage in gaming while on the move, a smoothly integrated
-                mobile version is crucial. <br />
-                Ensuring high-quality visuals, brisk load times, and intuitive
-                controls, some players might also favour app usage over browsing,
-                adding another dimension to mobile gaming. Chipsino champions
-                those online casinos that prioritize offering a sterling mobile
-                experience, reflecting a dedication to contemporary gaming needs
-                and user convenience.
-              </p>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">4</span>
-                <h2 className="roboto-black text-white">
-                  The Initial Steps: Registration and Deposit
-                </h2>
-              </div>
-              <p className="roboto-light">
-                In our digitally driven, efficiency-loving Canada, a player’s
-                inaugural perception of an online casino is significantly moulded
-                by how effortlessly they can register and deposit. Seamless and
-                secure registration, corroborated with instant confirmations via
-                email or SMS, and a straightforward deposit procedure are
-                quintessential. <br />
-                We prioritize these initial phases at Chipsino, as they not only
-                set the stage for a player’s entire journey but are also
-                indicative of the reliability and user-friendliness of a casino’s
-                digital interface.
-              </p>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">5</span>
-                <h2 className="roboto-black text-white">
-                  Navigating Deposit and Withdrawal Mechanisms
-                </h2>
-              </div>
-              <p className="roboto-light">
-                Secure and diverse banking options are vital for peace of mind for
-                Canadian online gamblers. A variety in this space, accommodating
-                player preferences and respecting cultural financial nuances, is
-                significant. <br />
-                Casinos providing an extensive array of deposit and withdrawal
-                avenues, including cryptocurrency and traditional bank transfers,
-                are a nod towards international inclusivity and player
-                convenience. Chipsino accentuates these features, knowing well
-                that trustworthy financial transactions are cardinal to sustaining
-                player trust.
-              </p>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">6</span>
-                <h2 className="roboto-black text-white">Safeguarding Players</h2>
-              </div>
-              <p className="roboto-light">
-                In the dynamic digital landscape of online gambling, perpetual
-                vigilance towards player protection is pivotal. Players must be
-                assured that their delicate data, like payment details, is
-                securely shielded from unsolicited scrutiny. <br />
-                Chipsino gives paramount importance to the safety protocols
-                employed by a casino. No matter how enticing a casino’s game
-                offerings and promotions might be, if its safety provisions are
-                flimsy, it cannot guarantee players’ peace and assurance, which
-                are non-negotiable.
-              </p>
-            </div>
-          </div>
-  
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">7</span>
-                <h2 className="roboto-black text-white">
-                  Valuing Player Feedback
-                </h2>
-              </div>
-              <p className="roboto-light">
-                Player reviews serve as vital pulse checks on a platform’s
-                integrity and efficacy. Be it positive or negative, firsthand
-                experiences shed light on facets of the platform that neither
-                official narratives nor promotional materials can illuminate.{" "}
-                <br />
-                Chipsino holds player feedback in high regard, valuing the
-                communal wisdom it portrays about a casino’s inner machinations.
-                Persistent themes in customer reviews often serve as a bellwether
-                of what one might anticipate from an online casino.
-              </p>
-            </div>
-          </div>
-  
-          <div className="row">
-            <div className="col-md-12 data-area-bonuses-part2">
-              <div className="link-area">
-                <span className="roboto-black ">8</span>
-                <h2 className="roboto-black text-white">
-                  Ensuring Stellar Customer Support
-                </h2>
-              </div>
-              <p className="roboto-light">
-                With the rapid tempo of the online casino world, robust customer
-                support becomes imperative. From tech glitches to queries about
-                bonuses, a casino’s dedication to a frictionless gaming journey is
-                often reflected in its customer service quality. <br />
-                Chipsino pays undivided attention to this facet, well aware that
-                even the most glamorous games and promotions cannot salvage a
-                casino’s reputation if its customer service falters. Stellar
-                customer support not only fosters trust but also assures sustained
-                patronage from keen gamers in Canada.
-              </p>
-            </div>
+            <p className="roboto-light">
+              Online casinos employ bonuses and promotions as vital tools to
+              captivate and retain players. In the bustling domain of online
+              gambling, where numerous sites vye for the attention of Canadian
+              players, a handsome bonus can indeed make a world of difference.{" "}
+              <br />
+              Our team at Chipsino delves deep into evaluating these offers,
+              ensuring they not only shine in terms of genuine value and
+              fairness but also present a genuine opportunity of winning for the
+              player. Going above and beyond flashy promotions, we ensure that
+              gamers reap actual benefits from the bonuses at recommended online
+              casinos.
+            </p>
           </div>
         </div>
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">2</span>
+              <h2 className="roboto-black text-white">
+                Scanning Game Availability and Software Providers
+              </h2>
+            </div>
+            <p className="roboto-light">
+              An online casino that brings value to the table will flaunt a
+              plethora of games, powered by reliable software developers.
+              Especially crucial for Canadians who seek escalating excitement,
+              the breadth and quality of offered games can make or break a
+              platform. <br />
+              Whether one is a fan of classic slot games, high-stakes poker, or
+              enthralling live dealer interactions, the software backing these
+              games, from giants like Microgaming, NetEnt, or Playtech, must
+              assure the most avant-garde visuals, gameplay, and outcomes. We at
+              Chipsino, scrutinize both the games and their developers,
+              ensuring a top-tier gameplay experience for our Canadian audience.
+            </p>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">3</span>
+              <h2 className="roboto-black text-white">Mobile Integration</h2>
+            </div>
+            <p className="roboto-light">
+              In an era dominated by mobile technology, an elite mobile gaming
+              experience is indispensable. Catering to Canadians who may prefer
+              to engage in gaming while on the move, a smoothly integrated
+              mobile version is crucial. <br />
+              Ensuring high-quality visuals, brisk load times, and intuitive
+              controls, some players might also favour app usage over browsing,
+              adding another dimension to mobile gaming. Chipsino champions
+              those online casinos that prioritize offering a sterling mobile
+              experience, reflecting a dedication to contemporary gaming needs
+              and user convenience.
+            </p>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">4</span>
+              <h2 className="roboto-black text-white">
+                The Initial Steps: Registration and Deposit
+              </h2>
+            </div>
+            <p className="roboto-light">
+              In our digitally driven, efficiency-loving Canada, a player’s
+              inaugural perception of an online casino is significantly moulded
+              by how effortlessly they can register and deposit. Seamless and
+              secure registration, corroborated with instant confirmations via
+              email or SMS, and a straightforward deposit procedure are
+              quintessential. <br />
+              We prioritize these initial phases at Chipsino, as they not only
+              set the stage for a player’s entire journey but are also
+              indicative of the reliability and user-friendliness of a casino’s
+              digital interface.
+            </p>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">5</span>
+              <h2 className="roboto-black text-white">
+                Navigating Deposit and Withdrawal Mechanisms
+              </h2>
+            </div>
+            <p className="roboto-light">
+              Secure and diverse banking options are vital for peace of mind for
+              Canadian online gamblers. A variety in this space, accommodating
+              player preferences and respecting cultural financial nuances, is
+              significant. <br />
+              Casinos providing an extensive array of deposit and withdrawal
+              avenues, including cryptocurrency and traditional bank transfers,
+              are a nod towards international inclusivity and player
+              convenience. Chipsino accentuates these features, knowing well
+              that trustworthy financial transactions are cardinal to sustaining
+              player trust.
+            </p>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">6</span>
+              <h2 className="roboto-black text-white">Safeguarding Players</h2>
+            </div>
+            <p className="roboto-light">
+              In the dynamic digital landscape of online gambling, perpetual
+              vigilance towards player protection is pivotal. Players must be
+              assured that their delicate data, like payment details, is
+              securely shielded from unsolicited scrutiny. <br />
+              Chipsino gives paramount importance to the safety protocols
+              employed by a casino. No matter how enticing a casino’s game
+              offerings and promotions might be, if its safety provisions are
+              flimsy, it cannot guarantee players’ peace and assurance, which
+              are non-negotiable.
+            </p>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">7</span>
+              <h2 className="roboto-black text-white">
+                Valuing Player Feedback
+              </h2>
+            </div>
+            <p className="roboto-light">
+              Player reviews serve as vital pulse checks on a platform’s
+              integrity and efficacy. Be it positive or negative, firsthand
+              experiences shed light on facets of the platform that neither
+              official narratives nor promotional materials can illuminate.{" "}
+              <br />
+              Chipsino holds player feedback in high regard, valuing the
+              communal wisdom it portrays about a casino’s inner machinations.
+              Persistent themes in customer reviews often serve as a bellwether
+              of what one might anticipate from an online casino.
+            </p>
+          </div>
+        </div>
+
+        <div className="row">
+          <div className="col-md-12 data-area-bonuses-part2">
+            <div className="link-area">
+              <span className="roboto-black ">8</span>
+              <h2 className="roboto-black text-white">
+                Ensuring Stellar Customer Support
+              </h2>
+            </div>
+            <p className="roboto-light">
+              With the rapid tempo of the online casino world, robust customer
+              support becomes imperative. From tech glitches to queries about
+              bonuses, a casino’s dedication to a frictionless gaming journey is
+              often reflected in its customer service quality. <br />
+              Chipsino pays undivided attention to this facet, well aware that
+              even the most glamorous games and promotions cannot salvage a
+              casino’s reputation if its customer service falters. Stellar
+              customer support not only fosters trust but also assures sustained
+              patronage from keen gamers in Canada.
+            </p>
+          </div>
+        </div>
+      </div>
   
        {/* <div className="container">
           <div className="row">
